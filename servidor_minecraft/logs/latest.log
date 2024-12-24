@@ -402,3 +402,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Dec2024 14:01:30.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
 [24Dec2024 14:01:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
 [24Dec2024 14:01:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:04:30.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[24Dec2024 14:11:53.933] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{thiagojoe})
+[24Dec2024 14:14:42.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:37249] logged in with entity id 43359 at (-2364.68909508841, 61.0, 1938.699999988079)
+[24Dec2024 14:14:42.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[24Dec2024 14:14:42.790] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
