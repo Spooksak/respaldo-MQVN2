@@ -3306,6 +3306,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-24 15:42:35 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2024-12-24 15:19:23 +0000"
@@ -3324,6 +3330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-12-24 15:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-24 12:46:53 +0000"
@@ -3339,6 +3351,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-24 12:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-24 15:42:35 +0000"
     },
     "done": true
   },
