@@ -244,3 +244,24 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Dec2024 18:27:08.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
 [24Dec2024 18:27:08.491] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
 [24Dec2024 18:27:11.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[24Dec2024 18:28:23.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Dec2024 18:29:53.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spooken_YT[/127.211.96.2:57379] logged in with entity id 6431 at (-283.02072077043385, 95.0, 3183.4457424851807)
+[24Dec2024 18:29:53.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT joined the game
+[24Dec2024 18:29:53.430] [Server thread/INFO] [Jade/]: Syncing config to Spooken_YT (a0514e61-eb98-34b6-b658-4b0bbef4bfb9)
+[24Dec2024 18:29:55.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[24Dec2024 18:30:33.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[24Dec2024 18:31:17.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[24Dec2024 18:31:41.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8488ms or 169 ticks behind
+[24Dec2024 18:32:01.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5419ms or 108 ticks behind
+[24Dec2024 18:32:18.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[24Dec2024 18:33:57.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Hidden in the Depths]
+[24Dec2024 18:34:02.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> }
+[24Dec2024 18:35:18.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[24Dec2024 18:36:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> Tycyone1 dormi
+[24Dec2024 18:37:17.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> tyconee oneeee
+[24Dec2024 18:37:23.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Kicked by an operator
+[24Dec2024 18:37:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[24Dec2024 18:37:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaurossjFLAMA: Kicked Tycyone1: Kicked by an operator]
+[24Dec2024 18:37:23.435] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Dec2024 18:38:01.610] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MaurossjFLAMA})
+[24Dec2024 18:38:01.763] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MaurossjFLAMA})
