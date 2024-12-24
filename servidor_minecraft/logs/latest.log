@@ -811,3 +811,37 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Dec2024 21:14:42.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Timed out
 [24Dec2024 21:14:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
 [24Dec2024 21:15:01.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@208c94e1[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:55085) lost connection: Disconnected
+[24Dec2024 21:15:34.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@277533c9[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:56605) lost connection: Disconnected
+[24Dec2024 21:15:49.339] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@702e548[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:58355) lost connection: Disconnected
+[24Dec2024 21:16:06.738] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48b4c58[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:37037) lost connection: Disconnected
+[24Dec2024 21:16:19.039] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4064ebb4[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:40747) lost connection: Disconnected
+[24Dec2024 21:16:26.888] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e81730a[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:34103) lost connection: Disconnected
+[24Dec2024 21:16:34.788] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5eb9f737[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:40209) lost connection: Disconnected
+[24Dec2024 21:16:57.538] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8e9934[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:47345) lost connection: Disconnected
+[24Dec2024 21:17:08.088] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67d0fbda[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:47699) lost connection: Disconnected
+[24Dec2024 21:17:17.138] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@228cdd09[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:41087) lost connection: Disconnected
+[24Dec2024 21:17:30.638] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@331d8620[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:46163) lost connection: Disconnected
+[24Dec2024 21:17:38.288] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47aefe4e[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:52469) lost connection: Disconnected
+[24Dec2024 21:17:52.638] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27c0c34a[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:42597) lost connection: Disconnected
+[24Dec2024 21:18:03.889] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c9380e4[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:36785) lost connection: Disconnected
+[24Dec2024 21:18:20.138] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c7f45b6[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:48075) lost connection: Disconnected
+[24Dec2024 21:18:29.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d040de0[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:48277) lost connection: Disconnected
+[24Dec2024 21:18:43.788] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f371f38[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:34013) lost connection: Disconnected
+[24Dec2024 21:18:52.988] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f83329a[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:34607) lost connection: Disconnected
+[24Dec2024 21:18:59.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:41253] logged in with entity id 100186 at (-1453.6828643973818, 58.0, 304.69999998807907)
+[24Dec2024 21:18:59.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[24Dec2024 21:18:59.727] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[24Dec2024 21:19:29.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Timed out
+[24Dec2024 21:19:29.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[24Dec2024 21:20:06.738] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3775a4be[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:36847) lost connection: Disconnected
+[24Dec2024 21:25:04.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 21:25:04.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 21:25:04.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 21:25:04.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 21:25:04.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 21:25:04.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 21:25:04.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 21:25:04.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 21:25:04.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 21:25:04.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 21:25:04.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
