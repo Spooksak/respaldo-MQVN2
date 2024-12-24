@@ -771,3 +771,12 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Dec2024 20:33:52.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
 [24Dec2024 20:33:52.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
 [24Dec2024 20:33:52.925] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Dec2024 20:34:01.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:46431] logged in with entity id 87762 at (-1456.0533069712428, 58.0, 303.1298090131549)
+[24Dec2024 20:34:01.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[24Dec2024 20:34:01.260] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[24Dec2024 20:34:03.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[24Dec2024 20:34:26.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7491ms or 149 ticks behind
+[24Dec2024 20:36:50.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Player: Tycyone1]
+[24Dec2024 20:36:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Player Difficulty: 102.0 / 250.0]
+[24Dec2024 20:36:50.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Area Difficulty: 105.7 / 250.0 (Distance and Time)]
+[24Dec2024 20:37:02.381] [Server thread/INFO] [Scaling Health/]: Blight Stray was killed by Spooken_YT
