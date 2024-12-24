@@ -229,3 +229,46 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Dec2024 12:47:59.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1086, y=-50, z=-242} BlockPos{x=-1085, y=-51, z=-241}
 [24Dec2024 12:48:01.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1080, y=-47, z=-246} BlockPos{x=-1081, y=-48, z=-245}
 [24Dec2024 12:48:26.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1088, y=-47, z=-257} BlockPos{x=-1088, y=-46, z=-257}
+[24Dec2024 12:48:38.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Dec2024 12:48:56.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=-49, z=-247} BlockPos{x=-1098, y=-50, z=-248}
+[24Dec2024 12:48:56.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=-49, z=-247} BlockPos{x=-1098, y=-50, z=-248}
+[24Dec2024 12:48:56.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=-49, z=-247} BlockPos{x=-1098, y=-50, z=-248}
+[24Dec2024 12:48:57.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1102, y=-49, z=-247} BlockPos{x=-1101, y=-50, z=-242}
+[24Dec2024 12:48:58.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[24Dec2024 12:48:59.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1103, y=-50, z=-248} BlockPos{x=-1105, y=-50, z=-249}
+[24Dec2024 12:49:25.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[24Dec2024 12:50:03.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[24Dec2024 12:50:23.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
+[24Dec2024 12:50:32.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1149, y=-48, z=-236} BlockPos{x=-1151, y=-49, z=-236}
+[24Dec2024 12:50:33.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1152, y=-49, z=-235} BlockPos{x=-1152, y=-48, z=-236}
+[24Dec2024 12:50:34.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1151, y=-50, z=-234} BlockPos{x=-1150, y=-50, z=-235}
+[24Dec2024 12:50:39.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1150, y=-52, z=-230} BlockPos{x=-1151, y=-53, z=-231}
+[24Dec2024 12:50:45.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7096ms or 141 ticks behind
+[24Dec2024 12:51:05.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5914ms or 118 ticks behind
+[24Dec2024 12:51:06.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Unemployed]
+[24Dec2024 12:51:48.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4422ms or 88 ticks behind
+[24Dec2024 12:52:06.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[24Dec2024 12:53:09.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1155, y=-50, z=-201} BlockPos{x=-1154, y=-51, z=-200}
+[24Dec2024 12:53:41.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[24Dec2024 12:55:34.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
+[24Dec2024 12:55:35.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
+[24Dec2024 12:55:35.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
+[24Dec2024 12:55:35.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
+[24Dec2024 12:55:35.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
+[24Dec2024 12:55:35.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
+[24Dec2024 12:55:35.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
+[24Dec2024 12:55:35.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
+[24Dec2024 12:55:48.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1191, y=-46, z=-218} BlockPos{x=-1192, y=-45, z=-217}
+[24Dec2024 12:56:37.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1162, y=-37, z=-241} BlockPos{x=-1162, y=-38, z=-241}
+[24Dec2024 12:58:05.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[24Dec2024 12:58:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 12:58:12.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:36407] logged in with entity id 9284 at (-1168.699999988079, -39.82324072493576, -270.0531982607893)
+[24Dec2024 12:58:12.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 12:58:12.794] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 12:58:14.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[24Dec2024 12:59:25.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has reached the goal [Zombie Doctor]
+[24Dec2024 12:59:36.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1166, y=-41, z=-269} BlockPos{x=-1167, y=-41, z=-268}
+[24Dec2024 13:00:57.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1139, y=-47, z=-345} BlockPos{x=-1138, y=-49, z=-349}
+[24Dec2024 13:00:57.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1139, y=-47, z=-345} BlockPos{x=-1138, y=-49, z=-349}
+[24Dec2024 13:00:57.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1138, y=-49, z=-349} BlockPos{x=-1138, y=-50, z=-348}
+[24Dec2024 13:02:05.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> -1130 -40 -367
