@@ -321,3 +321,84 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Dec2024 13:32:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
 [24Dec2024 13:32:33.298] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
 [24Dec2024 13:32:35.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[24Dec2024 13:34:41.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> 241207
+[24Dec2024 13:35:12.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[24Dec2024 13:35:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 13:35:13.823] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Spooken_YT
+[24Dec2024 13:35:42.851] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ac03e58[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:46107) lost connection: Disconnected
+[24Dec2024 13:36:13.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@455ae4e2[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:44711) lost connection: Disconnected
+[24Dec2024 13:36:20.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:59257] logged in with entity id 25236 at (-1131.6569126923903, -7.0, -686.8224690181842)
+[24Dec2024 13:36:20.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 13:36:20.534] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 13:36:46.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[24Dec2024 13:36:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 13:37:10.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:35933] logged in with entity id 26097 at (-1140.699999988079, 7.0, -681.6067583235236)
+[24Dec2024 13:37:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 13:37:10.269] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 13:40:37.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19639, l='ServerLevel[world]', x=-294.62, y=95.56, z=3187.65] was struck by lightning LightningBolt['Lightning Bolt'/27551, l='ServerLevel[world]', x=-294.50, y=95.00, z=3190.50].
+[24Dec2024 13:40:38.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> Zzz
+[24Dec2024 13:41:17.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/10056, l='ServerLevel[world]', x=-302.45, y=94.94, z=3183.07] died, message: 'Fletcher bled to death'
+[24Dec2024 13:42:03.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[24Dec2024 13:42:03.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 13:42:32.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:44049] logged in with entity id 28313 at (-1150.7034421425315, 63.0, -686.8483112179732)
+[24Dec2024 13:42:32.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 13:42:32.573] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 13:43:42.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[24Dec2024 13:43:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 13:44:01.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:38591] logged in with entity id 29421 at (-1145.6282843725776, 63.0, -692.4988375460249)
+[24Dec2024 13:44:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 13:44:01.354] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 13:44:05.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[24Dec2024 13:44:25.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Kicked thiagojoe: Kicked by an operator]
+[24Dec2024 13:44:25.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Kicked by an operator
+[24Dec2024 13:44:25.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 13:44:39.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2432b218[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:40469) lost connection: Disconnected
+[24Dec2024 13:44:53.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:37105] logged in with entity id 29935 at (-1154.6737199821378, 66.16610926093821, -670.2614228739413)
+[24Dec2024 13:44:53.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 13:44:53.145] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 13:45:25.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: You logged in from another location
+[24Dec2024 13:45:25.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 13:45:25.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:58767] logged in with entity id 30343 at (-1130.423681984822, 67.0, -669.3943438332818)
+[24Dec2024 13:45:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 13:45:25.357] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 13:47:01.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[24Dec2024 13:47:01.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 13:47:35.991] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9c17ed[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:58733) lost connection: Disconnected
+[24Dec2024 13:48:15.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:55923] logged in with entity id 31343 at (-1277.5438643290101, 102.0, -501.570684111571)
+[24Dec2024 13:48:15.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 13:48:15.916] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 13:50:01.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Timed out
+[24Dec2024 13:50:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 13:50:27.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:56297] logged in with entity id 32233 at (-1274.6682659359549, 110.0, -403.68925751085897)
+[24Dec2024 13:50:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 13:50:27.594] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 13:52:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Diamonds!]
+[24Dec2024 13:55:48.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> zz
+[24Dec2024 13:55:48.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[24Dec2024 13:55:49.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[24Dec2024 13:55:49.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[24Dec2024 13:55:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[24Dec2024 13:55:49.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[24Dec2024 13:58:48.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> -1272 110 -438
+[24Dec2024 14:00:13.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[24Dec2024 14:00:13.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[24Dec2024 14:00:21.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:56089] logged in with entity id 35570 at (-1277.292686209195, 110.0, -432.94556707402097)
+[24Dec2024 14:00:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[24Dec2024 14:00:21.082] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[24Dec2024 14:01:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[24Dec2024 14:01:26.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[24Dec2024 14:01:26.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[24Dec2024 14:01:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[24Dec2024 14:01:29.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zzzzz
+[24Dec2024 14:01:29.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:29.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:29.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:30.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:30.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:30.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:30.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:30.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:30.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[24Dec2024 14:01:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z

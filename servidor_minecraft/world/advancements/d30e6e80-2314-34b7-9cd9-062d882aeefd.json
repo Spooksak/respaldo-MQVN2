@@ -26,6 +26,7 @@
       "minecraft:swamp": "2024-12-20 19:16:45 +0000",
       "minecraft:cold_ocean": "2024-12-20 19:15:23 +0000",
       "minecraft:forest": "2024-12-20 18:24:35 +0000",
+      "minecraft:lush_caves": "2024-12-24 13:35:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 20:36:13 +0000",
       "minecraft:flower_forest": "2024-12-21 18:51:35 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-20 19:23:44 +0000",
@@ -1412,6 +1413,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-24 13:39:41 +0000",
       "minecraft:skeleton": "2024-12-21 19:57:13 +0000",
       "minecraft:vindicator": "2024-12-20 21:01:31 +0000",
       "minecraft:spider": "2024-12-22 14:45:53 +0000",
@@ -2762,6 +2764,120 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-24 13:19:33 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-24 13:39:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_saw": {
+    "criteria": {
+      "has_item": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_mattock": {
+    "criteria": {
+      "has_item": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_knife": {
+    "criteria": {
+      "has_item": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-24 13:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-24 13:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-24 13:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-24 13:52:55 +0000"
     },
     "done": true
   },
