@@ -3605,12 +3605,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-24 19:39:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
       "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2024-12-24 19:34:55 +0000",
@@ -3618,27 +3612,27 @@
     },
     "done": false
   },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2024-12-24 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-24 19:39:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-24 19:39:51 +0000"
     },
     "done": true
   },
-  "nova_structures:nether/find_skeleton_tower": {
-    "criteria": {
-      "nova_structures:nether_skeleton_tower_crimson": "2024-12-24 20:03:04 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-24 19:39:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2024-12-24 19:34:55 +0000"
     },
     "done": true
   },
@@ -3647,6 +3641,12 @@
       "netherite_armor": "2024-12-24 19:52:08 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_crimson": "2024-12-24 20:03:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
