@@ -858,3 +858,5 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Dec2024 16:11:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> la puta madre me re exploto un creeper en la casaaaaaaa me voy a suicidaaar aguante el porro liquido con sal y la verga holaholahoa
 [24Dec2024 16:11:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> agus si ve s esto te gusta la pinchila dobalada bien rica en toda la boca
 [24Dec2024 16:28:23.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2364, y=55, z=1930} BlockPos{x=-2364, y=55, z=1933}
+[24Dec2024 16:55:50.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Disconnected
+[24Dec2024 16:55:50.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
