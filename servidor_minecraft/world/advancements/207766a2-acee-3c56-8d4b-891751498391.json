@@ -3235,5 +3235,23 @@
     },
     "done": true
   },
+  "notreepunching:clay_brick_from_balls": {
+    "criteria": {
+      "has_item": "2024-12-24 20:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-24 20:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-24 20:10:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
