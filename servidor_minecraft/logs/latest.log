@@ -803,3 +803,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Dec2024 21:02:59.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:52025] logged in with entity id 97783 at (-1451.3257570922954, 58.0, 304.24283119285514)
 [24Dec2024 21:02:59.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
 [24Dec2024 21:02:59.064] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[24Dec2024 21:07:29.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[24Dec2024 21:07:29.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[24Dec2024 21:07:41.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:53393] logged in with entity id 98665 at (-1460.5624878773938, 59.200000047683716, 302.4069543534999)
+[24Dec2024 21:07:41.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[24Dec2024 21:07:41.262] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[24Dec2024 21:14:42.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Timed out
+[24Dec2024 21:14:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[24Dec2024 21:15:01.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@208c94e1[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:55085) lost connection: Disconnected
