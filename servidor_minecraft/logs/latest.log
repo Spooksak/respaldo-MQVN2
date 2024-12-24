@@ -1,21 +1,21 @@
-[24Dec2024 12:38:37.017] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[24Dec2024 12:38:37.023] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[24Dec2024 12:38:40.119] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Dec2024 12:38:40.255] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
-[24Dec2024 12:38:40.311] [main/INFO] [mixin-transmog/]: crimes against java were committed
-[24Dec2024 12:38:40.368] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
-[24Dec2024 12:38:40.468] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/respaldo-MQVN2/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23137%23140!/ Service=ModLauncher Env=SERVER
-[24Dec2024 12:38:41.241] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24Dec2024 12:38:41.244] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Dec2024 12:38:41.251] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Dec2024 12:38:41.261] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Dec2024 12:38:41.757] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[24Dec2024 12:38:42.729] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 0 candidates to load
-[24Dec2024 12:38:45.245] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
-[24Dec2024 12:38:47.702] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Dec2024 12:38:48.033] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[24Dec2024 12:38:48.557] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Dec2024 12:38:48.661] [main/INFO] [Puzzles Lib/]: Loading 43 mods:
+[24Dec2024 17:57:53.950] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[24Dec2024 17:57:53.959] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[24Dec2024 17:57:55.259] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Dec2024 17:57:55.280] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[24Dec2024 17:57:55.371] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[24Dec2024 17:57:55.445] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[24Dec2024 17:57:55.577] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/respaldo-MQVN2/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23137%23140!/ Service=ModLauncher Env=SERVER
+[24Dec2024 17:57:56.607] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 17:57:56.610] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 17:57:56.611] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 17:57:56.615] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 17:57:56.991] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[24Dec2024 17:57:58.004] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 0 candidates to load
+[24Dec2024 17:58:01.539] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[24Dec2024 17:58:03.750] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Dec2024 17:58:04.015] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[24Dec2024 17:58:04.336] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Dec2024 17:58:04.385] [main/INFO] [Puzzles Lib/]: Loading 43 mods:
 	- aiimprovements 0.5.2
 	- appleskin 2.5.1+mc1.20.1
 	- balm 7.3.10
@@ -59,61 +59,60 @@
 	- toughasnails 0.0NONE
 	- waystones 14.1.6
 	- zombieawareness 1.20.1-1.13.1
-[24Dec2024 12:38:48.715] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Dec2024 12:38:49.900] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
-[24Dec2024 12:38:49.903] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder from mod justleveling
-[24Dec2024 12:38:52.753] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[24Dec2024 12:38:53.190] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[24Dec2024 12:39:11.592] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[24Dec2024 12:39:12.438] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
-[24Dec2024 12:39:13.301] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[24Dec2024 12:39:13.424] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[24Dec2024 12:39:13.991] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[24Dec2024 12:39:14.121] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[24Dec2024 12:39:14.443] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24Dec2024 12:39:14.447] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24Dec2024 12:39:14.632] [modloading-worker-0/INFO] [com.alcatrazescapee.notreepunching.NoTreePunching/]: I tried to punch tree. It didn't work, my hands are now covered in blood and splinters. Need to try something else ...
-[24Dec2024 12:39:16.610] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
-[24Dec2024 12:39:16.610] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
-[24Dec2024 12:39:19.121] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[24Dec2024 12:39:19.125] [Thread-4/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[24Dec2024 12:39:19.128] [Thread-4/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
-[24Dec2024 12:39:19.784] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[24Dec2024 12:39:19.948] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[24Dec2024 12:39:19.987] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
-[24Dec2024 12:39:20.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[24Dec2024 12:39:20.473] [main/INFO] [com.alcatrazescapee.notreepunching.Config/]: Loading NoTreePunching Config
-[24Dec2024 12:39:20.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[24Dec2024 12:39:20.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[24Dec2024 12:39:20.568] [main/INFO] [com.alcatrazescapee.notreepunching.Config/]: Loaded NoTreePunching Config
-[24Dec2024 12:39:20.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[24Dec2024 12:39:20.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
-[24Dec2024 12:39:20.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.6 Target: null
-[24Dec2024 12:39:20.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[24Dec2024 12:39:20.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[24Dec2024 12:39:20.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[24Dec2024 12:39:20.850] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[24Dec2024 12:39:20.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[24Dec2024 12:39:20.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[24Dec2024 12:39:20.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[24Dec2024 12:39:20.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[24Dec2024 12:39:20.956] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[24Dec2024 12:39:20.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[24Dec2024 12:39:20.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[24Dec2024 12:39:20.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[24Dec2024 12:39:20.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Dec2024 12:39:20.975] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[24Dec2024 12:39:20.994] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[24Dec2024 12:39:20.999] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
-[24Dec2024 12:39:21.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[24Dec2024 12:39:21.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[24Dec2024 12:39:21.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.3.6 Target: null
-[24Dec2024 12:39:21.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[24Dec2024 12:39:21.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[24Dec2024 12:39:27.163] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Dec2024 12:39:30.486] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/assets/.mcassetsroot' uses unexpected schema
-[24Dec2024 12:39:30.487] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/data/.mcassetsroot' uses unexpected schema
-[24Dec2024 12:39:38.274] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+[24Dec2024 17:58:04.441] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Dec2024 17:58:05.413] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
+[24Dec2024 17:58:05.424] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder from mod justleveling
+[24Dec2024 17:58:08.459] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[24Dec2024 17:58:09.660] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[24Dec2024 17:58:28.618] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[24Dec2024 17:58:29.250] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[24Dec2024 17:58:30.284] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[24Dec2024 17:58:30.706] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[24Dec2024 17:58:32.104] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[24Dec2024 17:58:32.180] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[24Dec2024 17:58:32.453] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Dec2024 17:58:32.458] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Dec2024 17:58:32.738] [modloading-worker-0/INFO] [com.alcatrazescapee.notreepunching.NoTreePunching/]: I tried to punch tree. It didn't work, my hands are now covered in blood and splinters. Need to try something else ...
+[24Dec2024 17:58:34.535] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[24Dec2024 17:58:34.540] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[24Dec2024 17:58:36.466] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[24Dec2024 17:58:36.471] [Thread-4/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[24Dec2024 17:58:36.878] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[24Dec2024 17:58:36.972] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[24Dec2024 17:58:36.975] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
+[24Dec2024 17:58:37.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[24Dec2024 17:58:37.492] [main/INFO] [com.alcatrazescapee.notreepunching.Config/]: Loading NoTreePunching Config
+[24Dec2024 17:58:37.583] [main/INFO] [com.alcatrazescapee.notreepunching.Config/]: Loaded NoTreePunching Config
+[24Dec2024 17:58:37.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[24Dec2024 17:58:37.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[24Dec2024 17:58:37.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[24Dec2024 17:58:37.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[24Dec2024 17:58:37.773] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.6 Target: null
+[24Dec2024 17:58:37.773] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[24Dec2024 17:58:37.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[24Dec2024 17:58:37.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[24Dec2024 17:58:37.905] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[24Dec2024 17:58:38.008] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[24Dec2024 17:58:38.025] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[24Dec2024 17:58:38.048] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[24Dec2024 17:58:38.051] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
+[24Dec2024 17:58:38.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[24Dec2024 17:58:38.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[24Dec2024 17:58:38.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[24Dec2024 17:58:38.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[24Dec2024 17:58:38.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[24Dec2024 17:58:38.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[24Dec2024 17:58:38.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[24Dec2024 17:58:38.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Dec2024 17:58:38.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[24Dec2024 17:58:38.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[24Dec2024 17:58:38.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.3.6 Target: null
+[24Dec2024 17:58:38.611] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[24Dec2024 17:58:38.628] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[24Dec2024 17:58:44.349] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Dec2024 17:58:46.332] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/assets/.mcassetsroot' uses unexpected schema
+[24Dec2024 17:58:46.333] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/respaldo-MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/data/.mcassetsroot' uses unexpected schema
+[24Dec2024 17:58:54.566] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
 com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
 	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23179!/:?]
 	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23184!/:?]
@@ -140,723 +139,84 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[24Dec2024 12:39:38.323] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[24Dec2024 12:39:39.055] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1530 advancements
-[24Dec2024 12:39:39.106] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[24Dec2024 12:39:39.117] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[24Dec2024 12:39:39.117] [main/INFO] [Dungeon Crawl/]: Loading data...
-[24Dec2024 12:39:39.942] [main/INFO] [Dungeon Crawl/]: Done.
-[24Dec2024 12:39:41.729] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
-[24Dec2024 12:39:42.031] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 31 milliseconds
-[24Dec2024 12:39:42.040] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 8 milliseconds
-[24Dec2024 12:39:42.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Dec2024 12:39:42.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Dec2024 12:39:42.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Dec2024 12:39:42.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Dec2024 12:39:42.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Dec2024 12:39:42.622] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Dec2024 12:39:42.875] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Dec2024 12:39:42.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Dec2024 12:39:42.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Dec2024 12:39:42.878] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Dec2024 12:39:42.941] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[24Dec2024 12:39:42.951] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[24Dec2024 12:39:42.953] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
-[24Dec2024 12:39:42.957] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
-[24Dec2024 12:39:42.958] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
-[24Dec2024 12:39:42.959] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
-[24Dec2024 12:39:43.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Dec2024 12:39:56.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Dec2024 12:40:08.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.740] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.743] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.743] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.745] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.748] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.750] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.755] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.761] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.768] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.775] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.777] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.778] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.786] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.787] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.788] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.789] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:08.979] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:09.479] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Dec2024 12:40:10.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[24Dec2024 12:40:10.789] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14311 ms
-[24Dec2024 12:40:10.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.870s)! For help, type "help"
-[24Dec2024 12:40:10.822] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Dec2024 12:40:10.831] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
-[24Dec2024 12:40:27.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spooken_YT[/127.211.96.2:40011] logged in with entity id 82 at (-26.30000001192093, 82.0, 407.30000001192093)
-[24Dec2024 12:40:28.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT joined the game
-[24Dec2024 12:40:28.289] [Server thread/INFO] [Jade/]: Syncing config to Spooken_YT (a0514e61-eb98-34b6-b658-4b0bbef4bfb9)
-[24Dec2024 12:40:31.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3474ms or 69 ticks behind
-[24Dec2024 12:41:36.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:50681] logged in with entity id 391 at (-1070.5624547174343, -45.0, -283.7564787526558)
-[24Dec2024 12:41:36.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 12:41:36.551] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 12:41:41.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4981ms or 99 ticks behind
-[24Dec2024 12:44:27.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[24Dec2024 12:44:36.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe moved too quickly! -9.943341119386787,-2.0,1.34362883466423
-[24Dec2024 12:44:46.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
-[24Dec2024 12:44:57.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1057, y=-49, z=-268} BlockPos{x=-1055, y=-49, z=-267}
-[24Dec2024 12:46:29.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=-49, z=-259} BlockPos{x=-1051, y=-50, z=-258}
-[24Dec2024 12:47:26.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:26.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:26.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:26.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:26.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:26.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:26.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:26.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:26.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:26.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=-53, z=-248} BlockPos{x=-1071, y=-53, z=-250}
-[24Dec2024 12:47:32.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1074, y=-51, z=-240} BlockPos{x=-1074, y=-51, z=-241}
-[24Dec2024 12:47:32.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1074, y=-51, z=-239} BlockPos{x=-1074, y=-51, z=-241}
-[24Dec2024 12:47:32.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[24Dec2024 12:47:46.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1081, y=-48, z=-251} BlockPos{x=-1083, y=-48, z=-250}
-[24Dec2024 12:47:59.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1086, y=-50, z=-242} BlockPos{x=-1085, y=-51, z=-241}
-[24Dec2024 12:48:01.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1080, y=-47, z=-246} BlockPos{x=-1081, y=-48, z=-245}
-[24Dec2024 12:48:26.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1088, y=-47, z=-257} BlockPos{x=-1088, y=-46, z=-257}
-[24Dec2024 12:48:38.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[24Dec2024 12:48:56.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=-49, z=-247} BlockPos{x=-1098, y=-50, z=-248}
-[24Dec2024 12:48:56.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=-49, z=-247} BlockPos{x=-1098, y=-50, z=-248}
-[24Dec2024 12:48:56.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1097, y=-49, z=-247} BlockPos{x=-1098, y=-50, z=-248}
-[24Dec2024 12:48:57.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1102, y=-49, z=-247} BlockPos{x=-1101, y=-50, z=-242}
-[24Dec2024 12:48:58.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[24Dec2024 12:48:59.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1103, y=-50, z=-248} BlockPos{x=-1105, y=-50, z=-249}
-[24Dec2024 12:49:25.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[24Dec2024 12:50:03.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[24Dec2024 12:50:23.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
-[24Dec2024 12:50:32.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1149, y=-48, z=-236} BlockPos{x=-1151, y=-49, z=-236}
-[24Dec2024 12:50:33.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1152, y=-49, z=-235} BlockPos{x=-1152, y=-48, z=-236}
-[24Dec2024 12:50:34.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1151, y=-50, z=-234} BlockPos{x=-1150, y=-50, z=-235}
-[24Dec2024 12:50:39.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1150, y=-52, z=-230} BlockPos{x=-1151, y=-53, z=-231}
-[24Dec2024 12:50:45.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7096ms or 141 ticks behind
-[24Dec2024 12:51:05.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5914ms or 118 ticks behind
-[24Dec2024 12:51:06.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Unemployed]
-[24Dec2024 12:51:48.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4422ms or 88 ticks behind
-[24Dec2024 12:52:06.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
-[24Dec2024 12:53:09.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1155, y=-50, z=-201} BlockPos{x=-1154, y=-51, z=-200}
-[24Dec2024 12:53:41.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[24Dec2024 12:55:34.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
-[24Dec2024 12:55:35.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
-[24Dec2024 12:55:35.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
-[24Dec2024 12:55:35.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
-[24Dec2024 12:55:35.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
-[24Dec2024 12:55:35.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
-[24Dec2024 12:55:35.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
-[24Dec2024 12:55:35.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1169, y=-52, z=-210} BlockPos{x=-1168, y=-53, z=-210}
-[24Dec2024 12:55:48.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1191, y=-46, z=-218} BlockPos{x=-1192, y=-45, z=-217}
-[24Dec2024 12:56:37.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1162, y=-37, z=-241} BlockPos{x=-1162, y=-38, z=-241}
-[24Dec2024 12:58:05.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 12:58:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 12:58:12.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:36407] logged in with entity id 9284 at (-1168.699999988079, -39.82324072493576, -270.0531982607893)
-[24Dec2024 12:58:12.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 12:58:12.794] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 12:58:14.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
-[24Dec2024 12:59:25.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has reached the goal [Zombie Doctor]
-[24Dec2024 12:59:36.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1166, y=-41, z=-269} BlockPos{x=-1167, y=-41, z=-268}
-[24Dec2024 13:00:57.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1139, y=-47, z=-345} BlockPos{x=-1138, y=-49, z=-349}
-[24Dec2024 13:00:57.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1139, y=-47, z=-345} BlockPos{x=-1138, y=-49, z=-349}
-[24Dec2024 13:00:57.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1138, y=-49, z=-349} BlockPos{x=-1138, y=-50, z=-348}
-[24Dec2024 13:02:05.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> -1130 -40 -367
-[24Dec2024 13:02:54.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
-[24Dec2024 13:04:53.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:53.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:53.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:53.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:54.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:54.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:54.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:04:55.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 13:06:51.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:06:51.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:07:56.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:46151] logged in with entity id 13230 at (-1153.0809401590102, -38.0, -327.7914869204096)
-[24Dec2024 13:07:56.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:07:56.955] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:07:59.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
-[24Dec2024 13:08:03.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:08:03.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:08:19.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:48669] logged in with entity id 13613 at (-1153.0809401590102, -38.0, -327.7914869204096)
-[24Dec2024 13:08:19.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:08:19.992] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:08:50.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Timed out
-[24Dec2024 13:08:50.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:13:43.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:32909] logged in with entity id 15002 at (-1153.0809401590102, -38.0, -327.7914869204096)
-[24Dec2024 13:13:43.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:13:43.429] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:13:45.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
-[24Dec2024 13:20:19.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:20:19.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:20:28.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:39603] logged in with entity id 17617 at (-1191.210774745687, -47.0, -228.65300958523557)
-[24Dec2024 13:20:28.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:20:28.915] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:22:03.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1147, y=-43, z=-239} BlockPos{x=-1148, y=-44, z=-239}
-[24Dec2024 13:22:07.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:22:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:22:18.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:59257] logged in with entity id 18391 at (-1129.662420538231, -46.0, -240.51412653815322)
-[24Dec2024 13:22:18.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:22:18.831] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:22:21.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[24Dec2024 13:26:07.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-987, y=-44, z=-442} BlockPos{x=-986, y=-44, z=-443}
-[24Dec2024 13:32:27.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:32:27.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:32:33.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:56539] logged in with entity id 23484 at (-1122.300000011921, -42.0, -615.1932291121851)
-[24Dec2024 13:32:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:32:33.298] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:32:35.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[24Dec2024 13:34:41.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> 241207
-[24Dec2024 13:35:12.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:35:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:35:13.823] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Spooken_YT
-[24Dec2024 13:35:42.851] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ac03e58[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:46107) lost connection: Disconnected
-[24Dec2024 13:36:13.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@455ae4e2[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:44711) lost connection: Disconnected
-[24Dec2024 13:36:20.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:59257] logged in with entity id 25236 at (-1131.6569126923903, -7.0, -686.8224690181842)
-[24Dec2024 13:36:20.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:36:20.534] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:36:46.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:36:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:37:10.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:35933] logged in with entity id 26097 at (-1140.699999988079, 7.0, -681.6067583235236)
-[24Dec2024 13:37:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:37:10.269] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:40:37.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19639, l='ServerLevel[world]', x=-294.62, y=95.56, z=3187.65] was struck by lightning LightningBolt['Lightning Bolt'/27551, l='ServerLevel[world]', x=-294.50, y=95.00, z=3190.50].
-[24Dec2024 13:40:38.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> Zzz
-[24Dec2024 13:41:17.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/10056, l='ServerLevel[world]', x=-302.45, y=94.94, z=3183.07] died, message: 'Fletcher bled to death'
-[24Dec2024 13:42:03.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:42:03.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:42:32.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:44049] logged in with entity id 28313 at (-1150.7034421425315, 63.0, -686.8483112179732)
-[24Dec2024 13:42:32.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:42:32.573] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:43:42.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:43:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:44:01.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:38591] logged in with entity id 29421 at (-1145.6282843725776, 63.0, -692.4988375460249)
-[24Dec2024 13:44:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:44:01.354] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:44:05.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[24Dec2024 13:44:25.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Kicked thiagojoe: Kicked by an operator]
-[24Dec2024 13:44:25.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Kicked by an operator
-[24Dec2024 13:44:25.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:44:39.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2432b218[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:40469) lost connection: Disconnected
-[24Dec2024 13:44:53.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:37105] logged in with entity id 29935 at (-1154.6737199821378, 66.16610926093821, -670.2614228739413)
-[24Dec2024 13:44:53.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:44:53.145] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:45:25.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: You logged in from another location
-[24Dec2024 13:45:25.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:45:25.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:58767] logged in with entity id 30343 at (-1130.423681984822, 67.0, -669.3943438332818)
-[24Dec2024 13:45:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:45:25.357] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:47:01.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 13:47:01.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:47:35.991] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9c17ed[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:58733) lost connection: Disconnected
-[24Dec2024 13:48:15.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:55923] logged in with entity id 31343 at (-1277.5438643290101, 102.0, -501.570684111571)
-[24Dec2024 13:48:15.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:48:15.916] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:50:01.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Timed out
-[24Dec2024 13:50:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 13:50:27.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:56297] logged in with entity id 32233 at (-1274.6682659359549, 110.0, -403.68925751085897)
-[24Dec2024 13:50:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 13:50:27.594] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 13:52:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Diamonds!]
-[24Dec2024 13:55:48.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> zz
-[24Dec2024 13:55:48.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 13:55:49.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 13:55:49.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 13:55:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 13:55:49.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 13:58:48.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> -1272 110 -438
-[24Dec2024 14:00:13.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 14:00:13.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 14:00:21.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:56089] logged in with entity id 35570 at (-1277.292686209195, 110.0, -432.94556707402097)
-[24Dec2024 14:00:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 14:00:21.082] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 14:01:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:01:26.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:01:26.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:01:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:01:29.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zzzzz
-[24Dec2024 14:01:29.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:29.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:29.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:30.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:30.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:30.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:30.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:30.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:30.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:01:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:04:30.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[24Dec2024 14:11:53.933] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{thiagojoe})
-[24Dec2024 14:14:42.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:37249] logged in with entity id 43359 at (-2364.68909508841, 61.0, 1938.699999988079)
-[24Dec2024 14:14:42.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
-[24Dec2024 14:14:42.790] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
-[24Dec2024 14:14:46.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
-[24Dec2024 14:15:06.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 14:15:06.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 14:15:07.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6358ms or 127 ticks behind
-[24Dec2024 14:15:12.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:53941] logged in with entity id 43740 at (-1251.8907096428748, 111.0, -378.44187080226266)
-[24Dec2024 14:15:12.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 14:15:12.630] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 14:15:28.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6049ms or 120 ticks behind
-[24Dec2024 14:17:11.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
-[24Dec2024 14:17:29.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
-[24Dec2024 14:18:59.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 14:18:59.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 14:19:04.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:53925] logged in with entity id 46036 at (-1261.917329149558, 109.0, -429.03048649170955)
-[24Dec2024 14:19:04.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 14:19:04.166] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 14:19:06.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
-[24Dec2024 14:20:25.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[24Dec2024 14:20:33.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:20:34.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:20:34.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> zz
-[24Dec2024 14:20:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:25:10.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[24Dec2024 14:25:19.728] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{thiagojoe})
-[24Dec2024 14:25:19.877] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{thiagojoe})
-[24Dec2024 14:25:29.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3913ms or 78 ticks behind
-[24Dec2024 14:26:16.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 14:26:16.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 14:27:08.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:57163] logged in with entity id 50803 at (-1234.3448962688844, 105.0, -452.4123112200843)
-[24Dec2024 14:27:08.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 14:27:08.781] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 14:27:12.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[24Dec2024 14:27:29.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
-[24Dec2024 14:30:33.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 14:30:33.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 14:30:38.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:39377] logged in with entity id 53219 at (-1216.3308598525036, 109.0, -437.6839875815333)
-[24Dec2024 14:30:38.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 14:30:38.756] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 14:30:43.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[24Dec2024 14:31:02.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[24Dec2024 14:31:19.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
-[24Dec2024 14:31:53.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[24Dec2024 14:32:12.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2853ms or 57 ticks behind
-[24Dec2024 14:32:30.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[24Dec2024 14:33:01.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:02.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
-[24Dec2024 14:33:02.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:02.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:02.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:02.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:03.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:03.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:03.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:03.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:04.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:04.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:04.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:04.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:05.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:05.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:06.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:06.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:06.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> zz
-[24Dec2024 14:33:06.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:07.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:07.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:07.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:07.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:07.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:07.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:07.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
-[24Dec2024 14:33:07.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:08.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:08.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:08.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:08.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:08.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:08.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:08.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:08.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:09.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:09.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:09.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:09.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:09.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:09.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:10.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:10.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:10.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:10.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:10.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:10.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:11.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
-[24Dec2024 14:33:11.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:11.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:11.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 14:33:11.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> zeta
-[24Dec2024 14:33:13.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zzzzzzz
-[24Dec2024 14:33:24.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> hache
-[24Dec2024 14:33:26.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> ache
-[24Dec2024 14:33:42.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> vaca
-[24Dec2024 14:33:43.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> baca
-[24Dec2024 14:33:48.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> violin
-[24Dec2024 14:33:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> biolin
-[24Dec2024 14:35:37.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[24Dec2024 14:35:56.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4876ms or 97 ticks behind
-[24Dec2024 14:37:09.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Timed out
-[24Dec2024 14:37:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 14:37:09.694] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Dec2024 14:38:21.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:39597] logged in with entity id 57415 at (-1275.803067569204, 110.90625, -397.46297669458755)
-[24Dec2024 14:38:21.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 14:38:21.175] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 14:38:26.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
-[24Dec2024 14:39:20.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[24Dec2024 14:39:37.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
-[24Dec2024 14:39:58.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[24Dec2024 14:41:36.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 14:41:36.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 14:41:44.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12b8d880[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:38569) lost connection: Disconnected
-[24Dec2024 14:41:48.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:53677] logged in with entity id 59962 at (-1142.7119312701504, 47.0, -518.0315953119568)
-[24Dec2024 14:41:48.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 14:41:48.473] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 14:41:52.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[24Dec2024 14:42:09.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[24Dec2024 14:42:28.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4428ms or 88 ticks behind
-[24Dec2024 14:43:08.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
-[24Dec2024 14:43:40.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[24Dec2024 14:45:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:45:20.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:45:20.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:45:20.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:45:20.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:45:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> zeta zerta zeta
-[24Dec2024 14:45:49.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:34125] logged in with entity id 62535 at (-1403.6095787229012, 58.79760080956535, 287.0627406863751)
-[24Dec2024 14:45:49.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
-[24Dec2024 14:45:49.792] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
-[24Dec2024 14:45:53.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA moved too quickly! 2.2703197302748777,1.8369240882136921,9.605689454785079
-[24Dec2024 14:45:53.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3874ms or 77 ticks behind
-[24Dec2024 14:46:04.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe moved too quickly! -9.930696069043051,-1.0,0.6372296710636647
-[24Dec2024 14:46:04.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 moved too quickly! -8.692014149592524,0.8800391385729398,5.219878674093138
-[24Dec2024 14:46:26.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18476ms or 369 ticks behind
-[24Dec2024 14:46:48.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6431ms or 128 ticks behind
-[24Dec2024 14:47:08.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5283ms or 105 ticks behind
-[24Dec2024 14:47:08.622] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Tycyone1})
-[24Dec2024 14:47:27.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3883ms or 77 ticks behind
-[24Dec2024 14:47:46.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4220ms or 84 ticks behind
-[24Dec2024 14:48:05.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4325ms or 86 ticks behind
-[24Dec2024 14:48:24.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4264ms or 85 ticks behind
-[24Dec2024 14:48:49.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9352ms or 187 ticks behind
-[24Dec2024 14:49:03.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
-[24Dec2024 14:49:03.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
-[24Dec2024 14:49:07.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3758ms or 75 ticks behind
-[24Dec2024 14:49:22.128] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15b1f861[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:56503) lost connection: Disconnected
-[24Dec2024 14:49:29.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:51581] logged in with entity id 65111 at (-1418.402035368877, 63.0, 304.39641044745235)
-[24Dec2024 14:49:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
-[24Dec2024 14:49:29.098] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
-[24Dec2024 14:49:34.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[24Dec2024 14:49:44.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
-[24Dec2024 14:49:44.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
-[24Dec2024 14:49:50.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:43209] logged in with entity id 65545 at (-1437.9971541107905, 64.0, 308.1936293330434)
-[24Dec2024 14:49:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
-[24Dec2024 14:49:50.788] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
-[24Dec2024 14:49:52.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3393ms or 67 ticks behind
-[24Dec2024 14:50:14.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6413ms or 128 ticks behind
-[24Dec2024 14:50:32.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3027ms or 60 ticks behind
-[24Dec2024 14:50:51.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3979ms or 79 ticks behind
-[24Dec2024 14:51:11.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4956ms or 99 ticks behind
-[24Dec2024 14:51:31.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5561ms or 111 ticks behind
-[24Dec2024 14:51:49.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3077ms or 61 ticks behind
-[24Dec2024 14:52:07.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
-[24Dec2024 14:52:24.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[24Dec2024 14:52:42.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
-[24Dec2024 14:52:59.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[24Dec2024 14:53:17.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
-[24Dec2024 14:53:34.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
-[24Dec2024 14:53:44.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Not Today, Thank You]
-[24Dec2024 14:53:53.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3095ms or 61 ticks behind
-[24Dec2024 14:54:10.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
-[24Dec2024 14:54:29.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3889ms or 77 ticks behind
-[24Dec2024 14:54:50.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6086ms or 121 ticks behind
-[24Dec2024 14:55:07.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
-[24Dec2024 14:55:27.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[24Dec2024 14:55:44.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
-[24Dec2024 14:56:01.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[24Dec2024 14:56:19.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3294ms or 65 ticks behind
-[24Dec2024 14:56:46.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11281ms or 225 ticks behind
-[24Dec2024 14:57:00.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
-[24Dec2024 14:57:00.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
-[24Dec2024 14:57:05.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4381ms or 87 ticks behind
-[24Dec2024 14:57:36.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Timed out
-[24Dec2024 14:57:36.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 14:57:43.719] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e78c02[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:40985) lost connection: Disconnected
-[24Dec2024 14:58:10.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:54681] logged in with entity id 70648 at (-1440.1132175709631, 64.0, 294.4758795179215)
-[24Dec2024 14:58:10.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
-[24Dec2024 14:58:10.376] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
-[24Dec2024 14:58:12.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
-[24Dec2024 14:58:12.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA moved too quickly! 0.22782193941156947,0.7967356006687112,10.174823200426545
-[24Dec2024 14:58:37.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:58:37.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:58:37.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:58:37.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:58:37.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 14:58:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> dea
-[24Dec2024 14:58:41.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> ´ZZZ
-[24Dec2024 14:58:41.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> Z
-[24Dec2024 14:58:41.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> Z
-[24Dec2024 14:58:41.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> Z
-[24Dec2024 14:58:41.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> Z
-[24Dec2024 14:58:56.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@14bc0cf2[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:58371): Took too long to log in
-[24Dec2024 14:58:56.163] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14bc0cf2[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:58371) lost connection: Took too long to log in
-[24Dec2024 14:58:56.211] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Dec2024 14:59:14.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:33857] logged in with entity id 71365 at (-1430.2197644247299, -27.0, -627.3634032069501)
-[24Dec2024 14:59:14.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 14:59:14.451] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 14:59:16.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[24Dec2024 14:59:35.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3492ms or 69 ticks behind
-[24Dec2024 14:59:56.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6509ms or 130 ticks behind
-[24Dec2024 15:00:13.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
-[24Dec2024 15:00:34.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5493ms or 109 ticks behind
-[24Dec2024 15:00:51.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[24Dec2024 15:01:11.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4613ms or 92 ticks behind
-[24Dec2024 15:01:30.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4416ms or 88 ticks behind
-[24Dec2024 15:01:48.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
-[24Dec2024 15:02:05.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
-[24Dec2024 15:02:25.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4557ms or 91 ticks behind
-[24Dec2024 15:02:43.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2881ms or 57 ticks behind
-[24Dec2024 15:03:01.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3065ms or 61 ticks behind
-[24Dec2024 15:03:18.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
-[24Dec2024 15:03:36.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
-[24Dec2024 15:03:55.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3150ms or 63 ticks behind
-[24Dec2024 15:04:13.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3065ms or 61 ticks behind
-[24Dec2024 15:04:32.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4539ms or 90 ticks behind
-[24Dec2024 15:04:51.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3965ms or 79 ticks behind
-[24Dec2024 15:05:11.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4471ms or 89 ticks behind
-[24Dec2024 15:05:29.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3986ms or 79 ticks behind
-[24Dec2024 15:05:48.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3338ms or 66 ticks behind
-[24Dec2024 15:06:06.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
-[24Dec2024 15:06:24.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2869ms or 57 ticks behind
-[24Dec2024 15:06:45.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6375ms or 127 ticks behind
-[24Dec2024 15:07:03.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3293ms or 65 ticks behind
-[24Dec2024 15:07:32.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13731ms or 274 ticks behind
-[24Dec2024 15:07:50.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3009ms or 60 ticks behind
-[24Dec2024 15:08:11.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6187ms or 123 ticks behind
-[24Dec2024 15:08:32.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6416ms or 128 ticks behind
-[24Dec2024 15:08:50.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
-[24Dec2024 15:09:09.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3943ms or 78 ticks behind
-[24Dec2024 15:09:16.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> zxz
-[24Dec2024 15:09:16.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:17.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:17.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:17.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:17.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:17.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:18.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:18.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:18.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:18.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:18.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:18.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:19.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:19.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:19.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:20.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:20.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:20.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> z
-[24Dec2024 15:09:23.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> zzzzzzzzz
-[24Dec2024 15:09:26.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> yeah
-[24Dec2024 15:09:29.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4958ms or 99 ticks behind
-[24Dec2024 15:09:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
-[24Dec2024 15:09:47.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:47.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:48.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:48.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:48.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:48.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3967ms or 79 ticks behind
-[24Dec2024 15:09:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:49.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zz
-[24Dec2024 15:09:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:49.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:49.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:50.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:50.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:50.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:51.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:52.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
-[24Dec2024 15:09:55.566] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
-[24Dec2024 15:10:07.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
-[24Dec2024 15:10:24.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
-[24Dec2024 15:10:41.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
-[24Dec2024 15:10:59.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
-[24Dec2024 15:11:20.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5922ms or 118 ticks behind
-[24Dec2024 15:11:34.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 15:11:34.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 15:11:38.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
-[24Dec2024 15:12:04.522] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19486c73[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:34903) lost connection: Disconnected
-[24Dec2024 15:12:10.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:48285] logged in with entity id 79025 at (-1592.6162384124398, -39.74779665974627, -551.6596530620466)
-[24Dec2024 15:12:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 15:12:10.833] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 15:12:16.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5182ms or 103 ticks behind
-[24Dec2024 15:12:36.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5898ms or 117 ticks behind
-[24Dec2024 15:12:57.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5538ms or 110 ticks behind
-[24Dec2024 15:13:18.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5953ms or 119 ticks behind
-[24Dec2024 15:13:36.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[24Dec2024 15:13:53.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
-[24Dec2024 15:14:11.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3410ms or 68 ticks behind
-[24Dec2024 15:14:31.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4448ms or 88 ticks behind
-[24Dec2024 15:14:49.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
-[24Dec2024 15:15:07.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2885ms or 57 ticks behind
-[24Dec2024 15:15:25.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3218ms or 64 ticks behind
-[24Dec2024 15:15:42.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1511, y=-40, z=-571} BlockPos{x=-1512, y=-41, z=-571}
-[24Dec2024 15:15:44.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3920ms or 78 ticks behind
-[24Dec2024 15:16:04.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5100ms or 102 ticks behind
-[24Dec2024 15:16:24.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4555ms or 91 ticks behind
-[24Dec2024 15:16:39.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
-[24Dec2024 15:16:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
-[24Dec2024 15:16:42.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3402ms or 68 ticks behind
-[24Dec2024 15:16:51.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:58079] logged in with entity id 82330 at (-1443.0173698980452, 64.0, 295.33341793056354)
-[24Dec2024 15:16:51.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
-[24Dec2024 15:16:51.949] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
-[24Dec2024 15:16:58.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Disconnected
-[24Dec2024 15:16:58.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
-[24Dec2024 15:17:02.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4354ms or 87 ticks behind
-[24Dec2024 15:17:19.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[24Dec2024 15:17:41.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
-[24Dec2024 15:18:03.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7586ms or 151 ticks behind
-[24Dec2024 15:18:06.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Sneak 100]
-[24Dec2024 15:18:22.007] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by thiagojoe
-[24Dec2024 15:18:29.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/82336, l='ServerLevel[world]', x=-1444.58, y=59.00, z=300.48] died, message: 'Farmer hit the ground too hard'
-[24Dec2024 15:18:45.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
-[24Dec2024 15:20:26.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has completed the challenge [It Spreads]
-[24Dec2024 15:21:03.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=11, z=-495} BlockPos{x=-1471, y=12, z=-495}
-[24Dec2024 15:21:03.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=11, z=-495} BlockPos{x=-1471, y=12, z=-495}
-[24Dec2024 15:21:03.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=11, z=-495} BlockPos{x=-1471, y=12, z=-495}
-[24Dec2024 15:21:03.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=11, z=-495} BlockPos{x=-1471, y=12, z=-495}
-[24Dec2024 15:21:03.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=11, z=-495} BlockPos{x=-1471, y=12, z=-495}
-[24Dec2024 15:21:03.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=11, z=-495} BlockPos{x=-1471, y=12, z=-495}
-[24Dec2024 15:21:03.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=11, z=-495} BlockPos{x=-1471, y=12, z=-495}
-[24Dec2024 15:21:03.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=11, z=-495} BlockPos{x=-1471, y=12, z=-495}
-[24Dec2024 15:21:05.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1472, y=13, z=-496} BlockPos{x=-1473, y=14, z=-496}
-[24Dec2024 15:21:05.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1472, y=13, z=-496} BlockPos{x=-1473, y=14, z=-496}
-[24Dec2024 15:21:05.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1472, y=13, z=-496} BlockPos{x=-1473, y=14, z=-496}
-[24Dec2024 15:21:05.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1472, y=13, z=-496} BlockPos{x=-1473, y=14, z=-496}
-[24Dec2024 15:21:05.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1472, y=13, z=-496} BlockPos{x=-1473, y=14, z=-496}
-[24Dec2024 15:21:13.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1478, y=18, z=-498} BlockPos{x=-1478, y=19, z=-498}
-[24Dec2024 15:21:13.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1478, y=18, z=-498} BlockPos{x=-1478, y=19, z=-498}
-[24Dec2024 15:21:13.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1478, y=18, z=-498} BlockPos{x=-1478, y=19, z=-498}
-[24Dec2024 15:21:13.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1478, y=18, z=-498} BlockPos{x=-1478, y=19, z=-498}
-[24Dec2024 15:21:13.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1478, y=18, z=-498} BlockPos{x=-1478, y=19, z=-498}
-[24Dec2024 15:21:13.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1478, y=18, z=-498} BlockPos{x=-1478, y=19, z=-498}
-[24Dec2024 15:21:14.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1478, y=19, z=-499} BlockPos{x=-1478, y=18, z=-498}
-[24Dec2024 15:24:02.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[24Dec2024 15:24:22.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4884ms or 97 ticks behind
-[24Dec2024 15:26:52.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[24Dec2024 15:26:58.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
-[24Dec2024 15:26:58.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
-[24Dec2024 15:28:28.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24Dec2024 15:29:28.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=-42, z=3382} BlockPos{x=-241, y=-42, z=3385}
-[24Dec2024 15:29:29.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=-43, z=3383} BlockPos{x=-240, y=-42, z=3382}
-[24Dec2024 15:30:05.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-278, y=-42, z=3382} BlockPos{x=-279, y=-43, z=3382}
-[24Dec2024 15:30:06.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 15:30:06.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 15:30:52.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:37889] logged in with entity id 89635 at (-1460.0711369625662, 34.0, -402.76249998807907)
-[24Dec2024 15:30:52.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 15:30:52.967] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 15:30:56.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
-[24Dec2024 15:31:14.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was slain by Cursed Armor
-[24Dec2024 15:31:47.607] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24Dec2024 15:31:47.608] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[24Dec2024 15:31:52.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[24Dec2024 15:32:23.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[24Dec2024 15:32:24.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-328, y=-17, z=3329} BlockPos{x=-328, y=-15, z=3327}
-[24Dec2024 15:32:26.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 15:32:26.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 15:32:42.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52e1b979[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:50267) lost connection: Disconnected
-[24Dec2024 15:33:01.950] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fe8d909[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:34805) lost connection: Disconnected
-[24Dec2024 15:33:06.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:37483] logged in with entity id 91094 at (-1137.6938199728313, 120.41999998688698, -372.46146803122355)
-[24Dec2024 15:33:06.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 15:33:06.314] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 15:33:30.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[24Dec2024 15:33:34.452] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Spooken_YT
-[24Dec2024 15:34:03.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-295, y=24, z=3296} BlockPos{x=-296, y=24, z=3296}
-[24Dec2024 15:35:16.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 15:35:16.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 15:35:40.394] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b099f3a[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:37375) lost connection: Disconnected
-[24Dec2024 15:36:41.465] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10c4920e[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:33081) lost connection: Disconnected
-[24Dec2024 15:36:45.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:34967] logged in with entity id 92900 at (-980.5382132960216, 110.0, -465.60858329936826)
-[24Dec2024 15:36:45.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 15:36:45.223] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 15:37:00.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[24Dec2024 15:37:12.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 15:37:12.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 15:37:18.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:52557] logged in with entity id 93473 at (-932.3713504576592, 118.0, -564.4725117122122)
-[24Dec2024 15:37:18.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 15:37:18.114] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 15:37:20.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! -5.768966529088459,0.2468000194787976,8.378367872066974
-[24Dec2024 15:37:20.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
-[24Dec2024 15:42:14.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 15:42:14.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 15:42:35.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Spooky Scary Skeleton]
-[24Dec2024 15:42:45.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:38677] logged in with entity id 97510 at (-1143.3811221477945, 100.41999998688698, -555.543854285457)
-[24Dec2024 15:42:45.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
-[24Dec2024 15:42:45.316] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
-[24Dec2024 15:42:50.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
-[24Dec2024 15:43:10.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[24Dec2024 15:44:45.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe burned to death
-[24Dec2024 15:44:46.715] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24Dec2024 15:44:46.715] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[24Dec2024 15:44:50.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
-[24Dec2024 15:44:50.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
-[24Dec2024 15:48:05.737] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60d965fc[id=<null>,name=MaurossjFLAMA,properties={},legacy=false] (/127.56.87.190:46243) lost connection: Disconnected
-[24Dec2024 15:48:37.193] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@133df748[id=<null>,name=MaurossjFLAMA,properties={},legacy=false] (/127.56.87.190:40531) lost connection: Disconnected
-[24Dec2024 15:48:58.806] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25a0e5f6[id=<null>,name=MaurossjFLAMA,properties={},legacy=false] (/127.56.87.190:53699) lost connection: Disconnected
-[24Dec2024 15:49:32.245] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59f1cd4a[id=<null>,name=MaurossjFLAMA,properties={},legacy=false] (/127.56.87.190:51653) lost connection: Disconnected
-[24Dec2024 15:49:44.162] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
-[24Dec2024 15:49:44.164] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
-[24Dec2024 15:49:44.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:37827] logged in with entity id 100721 at (-2365.762499988079, 64.0, 1938.699999988079)
-[24Dec2024 15:49:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
-[24Dec2024 15:49:44.187] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
-[24Dec2024 15:49:47.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3662ms or 73 ticks behind
-[24Dec2024 15:49:59.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> Justo me estaba yendo
-[24Dec2024 15:50:06.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> llegue justito
-[24Dec2024 15:50:09.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> Avisame cuando no jugues mas
-[24Dec2024 15:50:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> bueno cualqueir cosa estoy yo
-[24Dec2024 15:50:13.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> Asi cierro
-[24Dec2024 15:50:13.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> dale
-[24Dec2024 15:50:18.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> Suertee
-[24Dec2024 15:50:19.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT lost connection: Disconnected
-[24Dec2024 15:50:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT left the game
-[24Dec2024 15:57:51.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 15:57:51.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 15:57:51.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 15:57:52.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 15:57:52.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
-[24Dec2024 15:57:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> dea
-[24Dec2024 15:57:54.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> MaurossjFLAMA
-[24Dec2024 15:57:54.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> MaurossjFLAMA
-[24Dec2024 16:05:28.191] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
-[24Dec2024 16:10:45.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> el que lee esto le gusta e lpitooooooooo yeahh
-[24Dec2024 16:11:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> la puta madre me re exploto un creeper en la casaaaaaaa me voy a suicidaaar aguante el porro liquido con sal y la verga holaholahoa
-[24Dec2024 16:11:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> agus si ve s esto te gusta la pinchila dobalada bien rica en toda la boca
-[24Dec2024 16:28:23.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2364, y=55, z=1930} BlockPos{x=-2364, y=55, z=1933}
-[24Dec2024 16:55:50.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Disconnected
-[24Dec2024 16:55:50.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[24Dec2024 17:58:54.609] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[24Dec2024 17:58:55.246] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1530 advancements
+[24Dec2024 17:58:55.271] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[24Dec2024 17:58:55.288] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[24Dec2024 17:58:55.305] [main/INFO] [Dungeon Crawl/]: Loading data...
+[24Dec2024 17:58:56.262] [main/INFO] [Dungeon Crawl/]: Done.
+[24Dec2024 17:58:58.235] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[24Dec2024 17:58:58.501] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 25 milliseconds
+[24Dec2024 17:58:58.503] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[24Dec2024 17:58:58.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Dec2024 17:58:58.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Dec2024 17:58:58.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Dec2024 17:58:58.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Dec2024 17:58:59.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Dec2024 17:58:59.217] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Dec2024 17:58:59.404] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Dec2024 17:58:59.405] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Dec2024 17:58:59.405] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Dec2024 17:58:59.406] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Dec2024 17:58:59.449] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[24Dec2024 17:58:59.452] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[24Dec2024 17:58:59.455] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[24Dec2024 17:58:59.472] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[24Dec2024 17:58:59.478] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[24Dec2024 17:58:59.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Dec2024 17:59:08.969] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Dec2024 17:59:12.311] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Dec2024 17:59:15.122] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Dec2024 17:59:16.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Dec2024 17:59:17.624] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Dec2024 17:59:24.691] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:24.871] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:24.872] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:24.897] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:24.922] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.031] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.393] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.525] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.533] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.551] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.553] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.556] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.588] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.602] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.620] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.627] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.642] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:25.656] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:26.020] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:28.261] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:28.301] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:28.306] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:28.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:28.531] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:29.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:29.529] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:30.051] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:30.524] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:30.644] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Dec2024 17:59:31.052] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:31.658] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:32.089] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:32.429] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Dec2024 17:59:32.519] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:33.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:34.007] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:34.019] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:34.533] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:35.020] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:35.526] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:36.019] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:36.621] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 17:59:37.020] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
+[24Dec2024 17:59:37.497] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 20978 ms
+[24Dec2024 17:59:37.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (38.066s)! For help, type "help"
+[24Dec2024 17:59:37.568] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Dec2024 17:59:37.587] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
+[24Dec2024 18:00:40.393] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24fb5155[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:55535) lost connection: Disconnected
+[24Dec2024 18:00:55.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66f63e98[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:53559) lost connection: Disconnected
+[24Dec2024 18:01:29.388] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30795caa[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:46825) lost connection: Disconnected
