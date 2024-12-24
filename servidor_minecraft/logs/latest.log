@@ -290,3 +290,42 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Dec2024 18:56:13.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
 [24Dec2024 18:56:36.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8217ms or 164 ticks behind
 [24Dec2024 18:58:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has completed the challenge [Hot Tourist Destinations]
+[24Dec2024 18:59:11.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[24Dec2024 18:59:28.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> NOOOOO
+[24Dec2024 18:59:40.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13776ms or 275 ticks behind
+[24Dec2024 18:59:57.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Player: Tycyone1]
+[24Dec2024 18:59:57.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Player Difficulty: 120.6 / 250.0]
+[24Dec2024 18:59:57.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Area Difficulty: 124.4 / 250.0 (Distance and Time)]
+[24Dec2024 19:00:23.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Player: MaurossjFLAMA]
+[24Dec2024 19:00:23.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Player Difficulty: 78.2 / 250.0]
+[24Dec2024 19:00:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Area Difficulty: 85.8 / 250.0 (Distance and Time)]
+[24Dec2024 19:00:27.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> ./sh_difficulty get MaurossjFLAMA
+[24Dec2024 19:01:24.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1882} BlockPos{x=-2337, y=67, z=1881}
+[24Dec2024 19:01:25.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:25.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2334, y=66, z=1881} BlockPos{x=-2334, y=67, z=1882}
+[24Dec2024 19:01:38.191] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Spooken_YT
+[24Dec2024 19:04:55.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Those Were the Days]
+[24Dec2024 19:06:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> -300 3100
+[24Dec2024 19:06:28.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [War Pigs]
+[24Dec2024 19:07:25.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1471, y=60, z=297} BlockPos{x=-1471, y=61, z=297}
+[24Dec2024 19:07:38.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1477, y=64, z=295} BlockPos{x=-1477, y=63, z=294}
+[24Dec2024 19:07:38.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1477, y=64, z=295} BlockPos{x=-1477, y=63, z=294}
+[24Dec2024 19:07:39.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1478, y=63, z=295} BlockPos{x=-1476, y=63, z=295}
+[24Dec2024 19:07:55.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1469, y=65, z=296} BlockPos{x=-1471, y=63, z=295}
+[24Dec2024 19:07:55.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1469, y=65, z=296} BlockPos{x=-1471, y=63, z=295}
+[24Dec2024 19:07:55.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1469, y=65, z=296} BlockPos{x=-1471, y=63, z=295}
