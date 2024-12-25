@@ -30,7 +30,9 @@
       "minecraft:forest": "2024-12-20 18:24:35 +0000",
       "minecraft:lush_caves": "2024-12-24 13:35:06 +0000",
       "minecraft:frozen_ocean": "2024-12-25 17:10:45 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-25 17:18:41 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 20:36:13 +0000",
+      "minecraft:snowy_beach": "2024-12-25 17:24:54 +0000",
       "minecraft:flower_forest": "2024-12-21 18:51:35 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-20 19:23:44 +0000",
       "minecraft:deep_dark": "2024-12-23 17:44:27 +0000",
@@ -2779,6 +2781,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2024-12-25 17:33:26 +0000",
       "illager_camp": "2024-12-24 13:39:36 +0000"
     },
     "done": false
@@ -3557,6 +3560,36 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-25 16:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-25 17:31:43 +0000"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_sugarcane_with_knife": {
+    "criteria": {
+      "has_item": "2024-12-25 17:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-25 17:31:43 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-12-25 17:33:21 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-12-25 17:33:26 +0000"
     },
     "done": true
   },
