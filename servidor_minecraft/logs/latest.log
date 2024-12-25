@@ -370,3 +370,77 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [25Dec2024 19:43:49.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
 [25Dec2024 19:44:15.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
 [25Dec2024 19:44:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[25Dec2024 19:44:42.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:60041] logged in with entity id 35740 at (-1396.5667986951526, 65.00133597911214, 261.48786656060236)
+[25Dec2024 19:44:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[25Dec2024 19:44:42.968] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[25Dec2024 19:44:45.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Dec2024 19:44:49.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[25Dec2024 19:44:49.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[25Dec2024 19:45:12.987] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4bfe176e[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:35851) lost connection: Disconnected
+[25Dec2024 19:45:22.383] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47e405f9[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:51755) lost connection: Disconnected
+[25Dec2024 19:45:43.035] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45de8121[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:36465) lost connection: Disconnected
+[25Dec2024 19:46:05.384] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c68fa20[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:35655) lost connection: Disconnected
+[25Dec2024 19:46:12.036] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ab58cbe[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:59427) lost connection: Disconnected
+[25Dec2024 19:46:23.383] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52dc0d49[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:49419) lost connection: Disconnected
+[25Dec2024 19:46:32.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:34647] logged in with entity id 37855 at (-1408.857079815479, 63.796735600668704, 273.47021819855877)
+[25Dec2024 19:46:32.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[25Dec2024 19:46:32.772] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[25Dec2024 19:46:38.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[25Dec2024 19:46:38.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[25Dec2024 19:46:55.303] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c3345fb[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:44135) lost connection: Disconnected
+[25Dec2024 19:47:01.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:53173] logged in with entity id 38565 at (-1417.6846181369092, 63.0, 283.55451142924227)
+[25Dec2024 19:47:01.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[25Dec2024 19:47:01.836] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[25Dec2024 19:47:02.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[25Dec2024 19:47:02.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[25Dec2024 19:47:02.765] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Dec2024 19:47:09.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:50103] logged in with entity id 38678 at (-1417.6846181369092, 63.0, 283.55451142924227)
+[25Dec2024 19:47:09.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[25Dec2024 19:47:09.719] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[25Dec2024 19:47:11.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA moved too quickly! -10.052480573974776,0.0,0.921115675462385
+[25Dec2024 19:47:11.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[25Dec2024 19:47:22.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:36949] logged in with entity id 39216 at (-1265.200359690249, 110.0, -418.48176259984456)
+[25Dec2024 19:47:22.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[25Dec2024 19:47:22.712] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[25Dec2024 19:47:29.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[25Dec2024 19:47:37.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Kicked by an operator
+[25Dec2024 19:47:37.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[25Dec2024 19:47:37.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Kicked thiagojoe: Kicked by an operator]
+[25Dec2024 19:47:37.925] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Dec2024 19:47:43.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:60059] logged in with entity id 39630 at (-1289.699999988079, 112.0, -434.4152562370146)
+[25Dec2024 19:47:43.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[25Dec2024 19:47:43.128] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[25Dec2024 19:47:46.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[25Dec2024 19:48:03.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[25Dec2024 19:48:21.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[25Dec2024 19:48:39.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[25Dec2024 19:48:51.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-721, y=15, z=-116} BlockPos{x=-720, y=14, z=-118}
+[25Dec2024 19:48:54.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-721, y=15, z=-117} BlockPos{x=-721, y=13, z=-119}
+[25Dec2024 19:48:55.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=15, z=-118} BlockPos{x=-720, y=14, z=-121}
+[25Dec2024 19:48:56.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[25Dec2024 19:49:14.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[25Dec2024 19:49:31.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[25Dec2024 19:49:48.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[25Dec2024 19:50:06.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[25Dec2024 19:50:24.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [We Need to Go Deeper]
+[25Dec2024 19:50:25.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
+[25Dec2024 19:50:43.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3293ms or 65 ticks behind
+[25Dec2024 19:51:01.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[25Dec2024 19:51:21.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[25Dec2024 19:51:41.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[25Dec2024 19:52:04.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[25Dec2024 19:52:49.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[25Dec2024 19:52:49.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[25Dec2024 19:53:18.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:40685] logged in with entity id 45300 at (-1297.9128870502714, 62.79127686467201, -466.30000001192093)
+[25Dec2024 19:53:18.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[25Dec2024 19:53:18.182] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[25Dec2024 19:53:20.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[25Dec2024 19:53:42.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6107ms or 122 ticks behind
+[25Dec2024 19:54:00.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[25Dec2024 19:54:14.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [A Terrible Fortress]
+[25Dec2024 19:54:15.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-730, y=18, z=-3} BlockPos{x=-738, y=17, z=-4}
+[25Dec2024 19:54:15.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-730, y=18, z=-3} BlockPos{x=-738, y=17, z=-4}
+[25Dec2024 19:54:18.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[25Dec2024 19:54:35.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[25Dec2024 19:54:36.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=53, z=-40} BlockPos{x=72, y=52, z=-40}
+[25Dec2024 19:54:36.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=73, y=55, z=-40} BlockPos{x=72, y=53, z=-38}
