@@ -1423,6 +1423,7 @@
       "minecraft:vindicator": "2024-12-20 21:01:31 +0000",
       "minecraft:magma_cube": "2024-12-25 15:52:09 +0000",
       "minecraft:spider": "2024-12-22 14:45:53 +0000",
+      "minecraft:piglin_brute": "2024-12-25 16:12:41 +0000",
       "minecraft:creeper": "2024-12-21 19:54:04 +0000",
       "minecraft:witch": "2024-12-21 20:11:49 +0000",
       "minecraft:wither_skeleton": "2024-12-22 15:41:06 +0000",
@@ -2943,6 +2944,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-25 15:55:05 +0000",
       "minecraft:nether_wastes": "2024-12-25 15:03:30 +0000",
       "minecraft:warped_forest": "2024-12-25 15:03:38 +0000"
     },
@@ -3020,55 +3022,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2024-12-25 15:49:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2024-12-25 15:49:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-25 15:48:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-25 15:43:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2024-12-25 15:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_slab": {
-    "criteria": {
-      "has_planks": "2024-12-25 15:48:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2024-12-25 15:51:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-25 15:48:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-25 15:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-25 15:43:35 +0000"
     },
@@ -3080,39 +3046,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2024-12-25 15:48:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-12-25 15:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2024-12-25 15:49:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2024-12-25 15:48:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite": {
+  "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
-      "has_quartz": "2024-12-25 15:49:56 +0000"
+      "has_planks": "2024-12-25 15:48:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
-      "has_nether_wart": "2024-12-25 15:51:20 +0000"
+      "has_planks": "2024-12-25 15:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-25 15:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2024-12-25 15:48:16 +0000"
     },
     "done": true
   },
@@ -3140,9 +3100,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/redstone/warped_door": {
     "criteria": {
-      "has_blaze_rod": "2024-12-25 15:43:35 +0000"
+      "has_planks": "2024-12-25 15:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-25 15:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-25 15:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-25 15:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-25 15:49:56 +0000"
     },
     "done": true
   },
@@ -3158,9 +3142,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_door": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_planks": "2024-12-25 15:48:16 +0000"
+      "has_nether_wart": "2024-12-25 15:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-25 15:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-25 15:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-25 15:51:33 +0000"
     },
     "done": true
   },
