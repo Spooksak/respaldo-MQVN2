@@ -211,3 +211,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [25Dec2024 16:46:12.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12649ms or 252 ticks behind
 [25Dec2024 17:02:55.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23102ms or 462 ticks behind
 [25Dec2024 17:03:40.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[25Dec2024 17:03:59.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4295ms or 85 ticks behind
+[25Dec2024 17:06:06.854] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[25Dec2024 17:09:04.737] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[25Dec2024 17:11:00.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[25Dec2024 17:11:00.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
