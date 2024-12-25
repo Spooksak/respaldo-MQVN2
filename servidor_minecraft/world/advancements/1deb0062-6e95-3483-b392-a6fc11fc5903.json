@@ -1111,6 +1111,7 @@
       "minecraft:ravager": "2024-12-22 20:07:45 +0000",
       "minecraft:vindicator": "2024-12-22 20:05:08 +0000",
       "minecraft:spider": "2024-12-22 14:23:27 +0000",
+      "minecraft:piglin_brute": "2024-12-25 19:05:12 +0000",
       "minecraft:creeper": "2024-12-21 19:01:09 +0000",
       "minecraft:evoker": "2024-12-22 20:14:33 +0000",
       "minecraft:witch": "2024-12-22 20:07:31 +0000",
@@ -3087,15 +3088,28 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
+      "entered_nether": "2024-12-25 18:56:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
+      "entered_nether": "2024-12-25 18:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-25 19:17:50 +0000",
+      "minecraft:soul_sand_valley": "2024-12-25 18:56:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-25 18:57:46 +0000"
     },
     "done": true
   },
@@ -3123,27 +3137,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2024-12-25 18:56:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-25 18:56:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-25 18:58:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-25 18:56:47 +0000"
     },
     "done": true
   },
@@ -3162,24 +3158,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 18:58:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
     },
     "done": true
   },
@@ -3207,27 +3185,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2024-12-25 18:57:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 18:58:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
     },
     "done": true
   },
@@ -3246,6 +3206,102 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 18:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-25 18:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-25 19:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-25 19:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-25 19:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-25 19:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-25 19:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-25 19:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-25 19:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-25 19:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-25 19:15:11 +0000"
     },
     "done": true
   },
