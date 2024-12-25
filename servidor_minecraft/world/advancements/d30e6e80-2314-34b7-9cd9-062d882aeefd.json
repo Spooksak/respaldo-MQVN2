@@ -2948,6 +2948,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-25 15:55:05 +0000",
       "minecraft:nether_wastes": "2024-12-25 15:03:30 +0000",
+      "minecraft:soul_sand_valley": "2024-12-25 16:56:45 +0000",
       "minecraft:warped_forest": "2024-12-25 15:03:38 +0000"
     },
     "done": false
@@ -3543,6 +3544,18 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-25 16:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-12-25 16:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-25 16:58:55 +0000"
     },
     "done": true
   },
