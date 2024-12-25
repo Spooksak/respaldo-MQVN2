@@ -3057,9 +3057,33 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-25 16:19:36 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:undead_army": {
     "criteria": {
       "army_defeated": "2024-12-25 16:11:50 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2024-12-25 16:19:36 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2024-12-25 16:19:36 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2024-12-25 16:19:36 +0000"
     },
     "done": true
   },
