@@ -3103,7 +3103,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-25 19:17:50 +0000",
-      "minecraft:soul_sand_valley": "2024-12-25 18:56:50 +0000"
+      "minecraft:soul_sand_valley": "2024-12-25 18:56:50 +0000",
+      "minecraft:nether_wastes": "2024-12-25 19:23:46 +0000"
     },
     "done": false
   },
@@ -3272,6 +3273,24 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-25 19:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 19:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 19:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-25 19:20:52 +0000"
     },
     "done": true
   },
