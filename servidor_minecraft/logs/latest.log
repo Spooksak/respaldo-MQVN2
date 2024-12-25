@@ -311,3 +311,62 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [25Dec2024 19:33:08.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=16, z=467} BlockPos{x=-785, y=15, z=468}
 [25Dec2024 19:33:19.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3009ms or 60 ticks behind
 [25Dec2024 19:33:25.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA moved too quickly! -10.642173926868622,0.20000004768371582,-0.6994852914938292
+[25Dec2024 19:33:44.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9654ms or 193 ticks behind
+[25Dec2024 19:34:13.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Ice Bucket Challenge]
+[25Dec2024 19:34:13.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13893ms or 277 ticks behind
+[25Dec2024 19:34:59.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[25Dec2024 19:35:02.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[25Dec2024 19:35:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[25Dec2024 19:35:02.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[25Dec2024 19:35:03.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[25Dec2024 19:35:03.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[25Dec2024 19:35:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[25Dec2024 19:35:03.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[25Dec2024 19:35:18.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[25Dec2024 19:35:21.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> MaurossjFLAMA
+[25Dec2024 19:35:32.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> e lq puso MaurossjFLAMA me lo garcho+
+[25Dec2024 19:35:36.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[25Dec2024 19:35:55.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3949ms or 78 ticks behind
+[25Dec2024 19:36:08.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Enchanter]
+[25Dec2024 19:36:12.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[25Dec2024 19:36:30.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2853ms or 57 ticks behind
+[25Dec2024 19:36:48.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[25Dec2024 19:37:08.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[25Dec2024 19:37:43.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[25Dec2024 19:37:45.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-652, y=14, z=274} BlockPos{x=-654, y=13, z=273}
+[25Dec2024 19:38:00.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[25Dec2024 19:38:18.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[25Dec2024 19:38:31.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-656, y=16, z=174} BlockPos{x=-657, y=15, z=172}
+[25Dec2024 19:38:31.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-656, y=16, z=174} BlockPos{x=-657, y=15, z=172}
+[25Dec2024 19:38:31.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-656, y=16, z=173} BlockPos{x=-657, y=15, z=172}
+[25Dec2024 19:38:31.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-656, y=16, z=173} BlockPos{x=-657, y=15, z=172}
+[25Dec2024 19:38:46.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[25Dec2024 19:39:16.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[25Dec2024 19:39:35.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
+[25Dec2024 19:39:53.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[25Dec2024 19:41:33.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-704, y=16, z=103} BlockPos{x=-705, y=15, z=104}
+[25Dec2024 19:41:33.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-704, y=16, z=103} BlockPos{x=-705, y=15, z=104}
+[25Dec2024 19:41:43.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[25Dec2024 19:42:13.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> Tycyone1
+[25Dec2024 19:42:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> sali
+[25Dec2024 19:42:19.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[25Dec2024 19:42:20.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> o dormi
+[25Dec2024 19:42:21.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Timed out
+[25Dec2024 19:42:21.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[25Dec2024 19:42:30.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> uh se fue
+[25Dec2024 19:42:40.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:60981] logged in with entity id 33215 at (-1277.5, 111.6875, -430.5)
+[25Dec2024 19:42:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[25Dec2024 19:42:40.860] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[25Dec2024 19:42:45.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Dec2024 19:42:45.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[25Dec2024 19:42:45.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[25Dec2024 19:42:54.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:34801] logged in with entity id 33810 at (-1277.5, 111.0, -430.5)
+[25Dec2024 19:42:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[25Dec2024 19:42:54.332] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[25Dec2024 19:43:02.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
+[25Dec2024 19:43:21.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3857ms or 77 ticks behind
+[25Dec2024 19:43:39.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[25Dec2024 19:43:49.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[25Dec2024 19:43:49.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[25Dec2024 19:44:15.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[25Dec2024 19:44:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
