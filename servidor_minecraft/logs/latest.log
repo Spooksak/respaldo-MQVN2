@@ -196,3 +196,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [25Dec2024 14:04:00.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.350s)! For help, type "help"
 [25Dec2024 14:04:00.716] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [25Dec2024 14:04:00.726] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
+[25Dec2024 14:32:44.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79e5ab26[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:52213) lost connection: Disconnected
+[25Dec2024 14:32:48.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:49185] logged in with entity id 80 at (-1293.018572297387, 108.0, -433.30000001192093)
+[25Dec2024 14:32:49.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[25Dec2024 14:32:49.190] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[25Dec2024 14:32:53.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4848ms or 96 ticks behind
