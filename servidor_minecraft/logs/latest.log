@@ -308,3 +308,14 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [25Dec2024 18:43:24.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Player Difficulty: 127.3 / 250.0]
 [25Dec2024 18:43:24.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Area Difficulty: 131.0 / 250.0 (Distance and Time)]
 [25Dec2024 18:43:29.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[25Dec2024 18:44:25.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[25Dec2024 18:44:45.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5154ms or 103 ticks behind
+[25Dec2024 18:45:23.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> MaurossjF
+[25Dec2024 18:46:40.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[25Dec2024 18:46:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[25Dec2024 18:46:44.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> graciass oior s compra
+[25Dec2024 18:48:37.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:60757] logged in with entity id 16813 at (-1461.5, 58.0, 302.5)
+[25Dec2024 18:48:37.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[25Dec2024 18:48:37.364] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[25Dec2024 18:51:49.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[25Dec2024 18:52:26.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
