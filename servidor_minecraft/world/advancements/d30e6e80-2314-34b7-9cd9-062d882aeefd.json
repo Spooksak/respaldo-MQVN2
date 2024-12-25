@@ -732,6 +732,7 @@
       "bread": "2024-12-20 18:56:58 +0000",
       "rotten_flesh": "2024-12-20 20:38:21 +0000",
       "beetroot": "2024-12-21 20:26:36 +0000",
+      "golden_carrot": "2024-12-25 15:11:39 +0000",
       "carrot": "2024-12-22 13:47:09 +0000"
     },
     "done": false
@@ -2923,6 +2924,25 @@
   "notreepunching:leather_from_boots_with_knife": {
     "criteria": {
       "has_item": "2024-12-24 14:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-25 15:03:30 +0000",
+      "minecraft:warped_forest": "2024-12-25 15:03:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-25 15:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-25 15:03:26 +0000"
     },
     "done": true
   },
