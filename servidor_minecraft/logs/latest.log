@@ -276,3 +276,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 19:01:06.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
 [27Dec2024 19:01:06.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
 [27Dec2024 19:01:06.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[27Dec2024 19:02:45.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by MaurossjFLAMA
+[27Dec2024 19:02:47.593] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 19:02:47.594] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 19:02:54.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by MaurossjFLAMA
+[27Dec2024 19:03:09.617] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 19:03:09.618] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 19:04:17.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by MaurossjFLAMA
+[27Dec2024 19:04:19.226] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 19:04:19.227] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 19:04:39.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Dec2024 19:04:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tellMaurossjFLAMA que maloyero<--[HERE]
+[27Dec2024 19:04:41.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by MaurossjFLAMA
+[27Dec2024 19:04:42.607] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 19:04:42.609] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 19:05:02.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to MaurossjFLAMA: que maloyero
+[27Dec2024 19:05:36.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1053, y=110, z=4164} BlockPos{x=-1053, y=109, z=4165}
+[27Dec2024 19:05:55.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by MaurossjFLAMA
+[27Dec2024 19:05:57.517] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 19:05:57.518] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Dec2024 19:11:38.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[27Dec2024 19:11:39.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[27Dec2024 19:11:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[27Dec2024 19:11:49.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1128, y=64, z=4274} BlockPos{x=-1128, y=63, z=4276}
+[27Dec2024 19:13:04.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['MaurossjFLAMA'/10862, l='ServerLevel[world]', x=-1051.30, y=105.00, z=4166.30] died: MaurossjFLAMA burned to death
+[27Dec2024 19:14:05.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by MaurossjFLAMA
+[27Dec2024 19:14:07.668] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 19:14:07.669] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Dec2024 19:17:32.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by Zombie Villager
+[27Dec2024 19:17:34.864] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 19:17:34.865] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 19:18:09.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by Zombie Villager
+[27Dec2024 19:18:10.565] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 19:18:10.567] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 19:18:27.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:44895] logged in with entity id 16410 at (-1462.8235861580185, 58.197891839228255, 298.1898466538191)
+[27Dec2024 19:18:27.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[27Dec2024 19:18:27.537] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
