@@ -348,3 +348,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 14:42:56.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3130ms or 62 ticks behind
 [27Dec2024 14:43:01.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe moved too quickly! -2.7520405990949257,1.314703340253729,-9.577609746137966
 [27Dec2024 14:43:16.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4989ms or 99 ticks behind
+[27Dec2024 14:43:54.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[27Dec2024 14:44:22.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13833ms or 276 ticks behind
+[27Dec2024 14:44:35.227] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:44:35.230] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:44:37.541] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:44:37.543] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:44:40.063] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:44:40.067] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:44:40.069] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:44:40.070] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:44:50.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe moved too quickly! -7.060799259912983,-0.6709083839322858,-7.164725531459737
+[27Dec2024 14:44:50.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4880ms or 97 ticks behind
+[27Dec2024 14:44:58.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[27Dec2024 14:44:58.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[27Dec2024 14:45:00.038] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:45:00.073] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:45:11.045] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5dee1c6b[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:36521) lost connection: Disconnected
+[27Dec2024 14:45:15.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:41621] logged in with entity id 59166 at (-1291.5114088215953, 108.0, -436.13491744909146)
+[27Dec2024 14:45:15.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[27Dec2024 14:45:15.359] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[27Dec2024 14:46:04.386] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[27Dec2024 14:46:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:46:38.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:46:38.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:46:39.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:46:39.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:46:39.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:46:39.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:46:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:46:40.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:46:40.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[27Dec2024 14:49:25.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA burned to death
+[27Dec2024 14:49:25.891] [Server thread/INFO] [tombstone/]: The player MaurossjFLAMA has successfully been saved
+[27Dec2024 14:49:30.481] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 14:49:30.482] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Dec2024 14:49:34.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[27Dec2024 14:49:53.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4217ms or 84 ticks behind
+[27Dec2024 14:50:07.661] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:50:07.663] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:50:07.663] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:50:08.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by Magma Cube
+[27Dec2024 14:50:09.059] [Server thread/INFO] [tombstone/]: The player MaurossjFLAMA has successfully been saved
+[27Dec2024 14:50:12.226] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 14:50:12.228] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 14:50:17.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[27Dec2024 14:51:42.243] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:52:38.452] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:52:38.454] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:52:51.560] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:52:51.568] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:53:01.982] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:53:01.993] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:53:01.999] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:54:34.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind

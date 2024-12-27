@@ -356,7 +356,8 @@
       "pumpkin_pie": "2024-12-22 15:14:22 +0000",
       "mutton": "2024-12-20 18:38:44 +0000",
       "bread": "2024-12-20 19:23:53 +0000",
-      "golden_apple": "2024-12-22 21:56:36 +0000"
+      "golden_apple": "2024-12-22 21:56:36 +0000",
+      "golden_carrot": "2024-12-27 14:48:52 +0000"
     },
     "done": false
   },
@@ -3667,6 +3668,24 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-26 21:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-27 14:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-27 14:48:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-27 14:48:28 +0000"
     },
     "done": true
   },
