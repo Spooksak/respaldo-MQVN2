@@ -263,3 +263,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 01:26:25.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Tycyone1
 [27Dec2024 01:26:27.778] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [27Dec2024 01:26:27.779] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Dec2024 01:29:46.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tycyone1'/2049, l='ServerLevel[world]', x=-384.47, y=49.88, z=70.64] died: Tycyone1 was slain by Tycyone1
+[27Dec2024 01:29:49.606] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[27Dec2024 01:29:49.607] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[27Dec2024 01:29:49.607] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[27Dec2024 01:29:49.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Zombie
+[27Dec2024 01:29:53.143] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 01:29:53.145] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Dec2024 01:30:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
+[27Dec2024 01:30:27.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]
+[27Dec2024 01:32:11.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was killed by magic whilst trying to escape Blaze
+[27Dec2024 01:32:11.772] [Server thread/INFO] [tombstone/]: The player Tycyone1 has successfully been saved
+[27Dec2024 01:32:14.539] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 01:32:14.539] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 01:32:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
+[27Dec2024 01:32:28.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]
+[27Dec2024 01:37:47.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tycyone1'/3871, l='ServerLevel[world]', x=-384.64, y=29.00, z=30.38] died: Tycyone1 tried to swim in lava

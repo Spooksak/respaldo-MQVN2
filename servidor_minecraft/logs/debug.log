@@ -4307,3 +4307,82 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 01:27:21.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [27Dec2024 01:27:21.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [27Dec2024 01:27:56.724] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:28:35.266] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:29:46.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tycyone1'/2049, l='ServerLevel[world]', x=-384.47, y=49.88, z=70.64] died: Tycyone1 was slain by Tycyone1
+[27Dec2024 01:29:49.606] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:29:49.606] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[27Dec2024 01:29:49.607] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[27Dec2024 01:29:49.607] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[27Dec2024 01:29:49.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Zombie
+[27Dec2024 01:29:49.613] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tycyone1 was created at position [x:-385, y:52, z:71, dim:minecraft:the_nether]
+[27Dec2024 01:29:53.142] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:29:53.143] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 01:29:53.145] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Dec2024 01:30:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
+[27Dec2024 01:30:19.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:30:19.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:30:27.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]
+[27Dec2024 01:31:57.724] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:31:59.397] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:31:59.996] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:32:06.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:32:08.355] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:32:11.661] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:32:11.671] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:32:11.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was killed by magic whilst trying to escape Blaze
+[27Dec2024 01:32:11.685] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tycyone1 was created at position [x:-407, y:56, z:25, dim:minecraft:the_nether]
+[27Dec2024 01:32:11.772] [Server thread/INFO] [tombstone/]: The player Tycyone1 has successfully been saved
+[27Dec2024 01:32:14.538] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:32:14.539] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 01:32:14.539] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 01:32:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
+[27Dec2024 01:32:28.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]
+[27Dec2024 01:33:08.049] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:33:08.050] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:33:09.046] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:33:10.047] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:33:11.046] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:33:12.048] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:00.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:00.499] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:01.501] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:02.504] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:03.496] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:04.497] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:18.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:18.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:19.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:19.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 01:35:19.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 01:35:20.346] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:21.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:22.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:26.750] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:38.148] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:38.148] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:39.148] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:40.150] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:41.148] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:35:42.150] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:37:47.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tycyone1'/3871, l='ServerLevel[world]', x=-384.64, y=29.00, z=30.38] died: Tycyone1 tried to swim in lava
+[27Dec2024 01:39:05.600] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:06.099] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:06.598] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:07.499] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:09.398] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:09.398] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:10.400] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:11.405] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:12.398] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:13.399] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:15.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:17.497] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:19.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:21.555] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:23.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:25.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:27.497] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:29.547] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:31.547] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:33.498] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[27Dec2024 01:39:35.496] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
