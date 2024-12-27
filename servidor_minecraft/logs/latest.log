@@ -324,3 +324,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 14:18:22.020] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [27Dec2024 14:18:22.020] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [27Dec2024 14:20:40.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Spooken_YT'/42044, l='ServerLevel[world]', x=-309.30, y=96.00, z=3192.70] died: Spooken_YT tried to swim in lava
+[27Dec2024 14:29:31.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:56303] logged in with entity id 46025 at (-2365.7242502518898, 61.5625, 1915.2155984571177)
+[27Dec2024 14:29:31.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[27Dec2024 14:29:31.162] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[27Dec2024 14:29:33.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[27Dec2024 14:29:55.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA has reached the goal [Discreet Search]
+[27Dec2024 14:29:57.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[27Dec2024 14:30:45.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Spooken_YT'/43479, l='ServerLevel[world]', x=-309.30, y=96.00, z=3192.70] died: Spooken_YT tried to swim in lava
+[27Dec2024 14:31:32.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.hyperthermia
+[27Dec2024 14:31:34.003] [Server thread/INFO] [tombstone/]: The player MaurossjFLAMA has successfully been saved
+[27Dec2024 14:31:37.803] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 14:31:37.804] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
