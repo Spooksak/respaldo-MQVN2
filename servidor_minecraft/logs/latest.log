@@ -267,3 +267,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 15:37:50.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:44871] logged in with entity id 4432 at (-1215.1977161295488, 115.0, -371.9707430431239)
 [27Dec2024 15:37:50.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
 [27Dec2024 15:37:51.010] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[27Dec2024 15:38:25.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[27Dec2024 15:38:52.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11759ms or 235 ticks behind
+[27Dec2024 15:39:16.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[27Dec2024 15:39:16.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[27Dec2024 15:39:25.692] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fa35553[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:55673) lost connection: Disconnected
+[27Dec2024 15:39:29.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:52079] logged in with entity id 6267 at (-1210.4343800363317, 115.0, -377.48053867694404)
+[27Dec2024 15:39:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[27Dec2024 15:39:29.344] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[27Dec2024 15:44:50.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
