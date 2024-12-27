@@ -279,3 +279,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 01:32:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
 [27Dec2024 01:32:28.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]
 [27Dec2024 01:37:47.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tycyone1'/3871, l='ServerLevel[world]', x=-384.64, y=29.00, z=30.38] died: Tycyone1 tried to swim in lava
+[27Dec2024 01:40:49.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Piglin Brute
+[27Dec2024 01:40:51.558] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 01:40:51.558] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Dec2024 01:40:57.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Piglin Brute
+[27Dec2024 01:40:59.785] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 01:40:59.786] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 01:41:03.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
+[27Dec2024 01:41:06.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]
+[27Dec2024 01:44:12.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 was slain by Piglin Brute
+[27Dec2024 01:44:14.966] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 01:44:14.967] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Dec2024 01:44:19.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
+[27Dec2024 01:45:31.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Your First Receptacle]
+[27Dec2024 01:45:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Who is Cutting Onions?]
+[27Dec2024 01:46:46.778] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 01:47:31.139] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 01:47:33.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 moved too quickly! 9.172012774820796,2.54450677101309,4.246478986606462
+[27Dec2024 01:48:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Where Is The Stone Pen?]
+[27Dec2024 01:48:45.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Magic Writing]
+[27Dec2024 01:48:50.983] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
