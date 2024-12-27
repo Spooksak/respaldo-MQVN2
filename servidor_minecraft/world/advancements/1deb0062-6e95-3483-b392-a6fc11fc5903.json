@@ -3695,5 +3695,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-12-27 16:17:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
