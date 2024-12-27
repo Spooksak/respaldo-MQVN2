@@ -306,3 +306,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 13:12:57.500] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Spooken_YT
 [27Dec2024 13:13:42.283] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Spooken_YT
 [27Dec2024 13:25:29.227] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[27Dec2024 14:08:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Enchanted Book] to Spooken_YT]
+[27Dec2024 14:08:17.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Enchanted Book] to Spooken_YT]
+[27Dec2024 14:08:21.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Enchanted Book] to Spooken_YT]
+[27Dec2024 14:08:21.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Enchanted Book] to Spooken_YT]
+[27Dec2024 14:08:22.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Enchanted Book] to Spooken_YT]
+[27Dec2024 14:09:16.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3977ms or 79 ticks behind
+[27Dec2024 14:10:34.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Diamond Chestplate] to Spooken_YT]
+[27Dec2024 14:11:12.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Chestplate] to Spooken_YT]
+[27Dec2024 14:11:23.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Chestplate] to Spooken_YT]
+[27Dec2024 14:18:06.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was killed by magic whilst trying to escape Zombie
+[27Dec2024 14:18:06.143] [Server thread/INFO] [tombstone/]: The player Spooken_YT has successfully been saved
+[27Dec2024 14:18:07.304] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 14:18:07.304] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Dec2024 14:18:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was killed by magic whilst trying to escape Zombie
+[27Dec2024 14:18:20.740] [Server thread/INFO] [tombstone/]: The player Spooken_YT has successfully been saved
+[27Dec2024 14:18:22.020] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 14:18:22.020] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 14:20:40.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Spooken_YT'/42044, l='ServerLevel[world]', x=-309.30, y=96.00, z=3192.70] died: Spooken_YT tried to swim in lava
