@@ -335,3 +335,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 14:31:34.003] [Server thread/INFO] [tombstone/]: The player MaurossjFLAMA has successfully been saved
 [27Dec2024 14:31:37.803] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [27Dec2024 14:31:37.804] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 14:40:28.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:34527] logged in with entity id 54301 at (-1246.300000011921, 111.0, -380.7798615906507)
+[27Dec2024 14:40:28.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[27Dec2024 14:40:28.684] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[27Dec2024 14:40:30.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[27Dec2024 14:40:47.022] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Dec2024 14:41:53.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA died
+[27Dec2024 14:41:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Killed MaurossjFLAMA]
+[27Dec2024 14:41:55.967] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Dec2024 14:41:55.967] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Dec2024 14:42:00.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[27Dec2024 14:42:56.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3130ms or 62 ticks behind
+[27Dec2024 14:43:01.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe moved too quickly! -2.7520405990949257,1.314703340253729,-9.577609746137966
+[27Dec2024 14:43:16.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4989ms or 99 ticks behind
