@@ -651,3 +651,94 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 16:41:28.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:55021] logged in with entity id 85539 at (92.69999998807907, 14.0, -122.04520488677693)
 [28Dec2024 16:41:28.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
 [28Dec2024 16:41:28.240] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 16:41:58.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Timed out
+[28Dec2024 16:41:58.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 16:41:58.303] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 16:42:11.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:42683] logged in with entity id 86375 at (92.69999998807907, 14.0, -122.04520488677693)
+[28Dec2024 16:42:11.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 16:42:11.142] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 16:44:27.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=15, z=-159} BlockPos{x=45, y=15, z=-159}
+[28Dec2024 16:44:42.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 16:44:42.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 16:44:49.762] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@227a9250[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:44541) lost connection: Disconnected
+[28Dec2024 16:44:55.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:56961] logged in with entity id 89110 at (23.964877710711704, 15.0, -158.30000001192093)
+[28Dec2024 16:44:55.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 16:44:55.089] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 16:45:26.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe moved too quickly! 214.64600010428072,63.5,-241.9548153877857
+[28Dec2024 16:45:26.880] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:45:26.962] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:45:26.962] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:45:27.160] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:45:27.161] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:45:27.161] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:45:29.350] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:45:29.350] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:45:29.351] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:52:33.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spooken_YT[/127.211.96.2:43371] logged in with entity id 94819 at (-385.26468148293196, 104.0, 3225.7145236336078)
+[28Dec2024 16:52:33.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT joined the game
+[28Dec2024 16:52:33.953] [Server thread/INFO] [Jade/]: Syncing config to Spooken_YT (a0514e61-eb98-34b6-b658-4b0bbef4bfb9)
+[28Dec2024 16:54:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Those Were the Days]
+[28Dec2024 16:55:25.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> MaurossjFLAMAzz
+[28Dec2024 16:55:25.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:55:25.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:55:25.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:55:25.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:55:25.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:55:25.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:55:26.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:55:35.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> zel q pone z me lo garcho
+[28Dec2024 16:55:36.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was slain by Magma Cube
+[28Dec2024 16:55:36.196] [Server thread/INFO] [tombstone/]: The player thiagojoe has successfully been saved
+[28Dec2024 16:55:39.845] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 16:55:39.845] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Dec2024 16:55:42.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[28Dec2024 16:56:01.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4341ms or 86 ticks behind
+[28Dec2024 16:56:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was slain by Magma Cube
+[28Dec2024 16:56:05.671] [Server thread/INFO] [tombstone/]: The player thiagojoe has successfully been saved
+[28Dec2024 16:56:11.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Timed out
+[28Dec2024 16:56:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 16:56:16.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:41291] logged in with entity id 98596 at (600.5137981024719, 35.0, -177.2820796766524)
+[28Dec2024 16:56:16.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 16:56:16.284] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 16:56:22.664] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 16:56:22.665] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Dec2024 16:56:32.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[28Dec2024 16:56:45.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was slain by Magma Cube
+[28Dec2024 16:56:45.265] [Server thread/INFO] [tombstone/]: The player thiagojoe has successfully been saved
+[28Dec2024 16:56:47.107] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 16:56:47.109] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Dec2024 16:56:50.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3588ms or 71 ticks behind
+[28Dec2024 16:57:42.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was slain by Piglin Brute
+[28Dec2024 16:57:47.779] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 16:57:47.780] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Dec2024 16:57:50.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[28Dec2024 16:57:53.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 16:57:53.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 16:58:10.009] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@288bbba[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:35619) lost connection: Disconnected
+[28Dec2024 16:58:13.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:57849] logged in with entity id 100607 at (-1276.5, 110.0, -395.5)
+[28Dec2024 16:58:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 16:58:13.760] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 16:58:15.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Dec2024 16:58:33.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[28Dec2024 16:58:53.999] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[28Dec2024 16:59:35.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was slain by Magma Cube
+[28Dec2024 16:59:35.886] [Server thread/INFO] [tombstone/]: The player thiagojoe has successfully been saved
+[28Dec2024 16:59:40.249] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 16:59:40.250] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Dec2024 16:59:43.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[28Dec2024 16:59:54.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was slain by Magma Cube
+[28Dec2024 16:59:54.458] [Server thread/INFO] [tombstone/]: The player thiagojoe has successfully been saved
+[28Dec2024 16:59:59.126] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 16:59:59.127] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Dec2024 17:00:00.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[28Dec2024 17:00:50.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was slain by Magma Cube
+[28Dec2024 17:00:50.723] [Server thread/INFO] [tombstone/]: The player thiagojoe has successfully been saved
+[28Dec2024 17:00:53.084] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 17:00:53.085] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Dec2024 17:00:55.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[28Dec2024 17:01:12.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was slain by Magma Cube
+[28Dec2024 17:01:12.080] [Server thread/INFO] [tombstone/]: The player thiagojoe has successfully been saved
+[28Dec2024 17:01:14.685] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 17:01:14.686] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[28Dec2024 17:01:19.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 17:01:19.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
