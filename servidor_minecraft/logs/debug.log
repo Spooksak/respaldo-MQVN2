@@ -5903,3 +5903,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 22:07:17.318] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
 [28Dec2024 22:07:17.320] [Server thread/DEBUG] [Scaling Health/]: Sending login packet to player ServerPlayer['thiagojoe'/19741, l='ServerLevel[world]', x=-83.48, y=79.00, z=-153.38]
 [28Dec2024 22:07:20.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[28Dec2024 22:07:37.624] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:08:29.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 22:08:29.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:09:36.030] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:11:09.181] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:11:23.493] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:11:26.926] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:11:38.139] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:12:16.019] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:12:16.019] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:12:17.068] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:12:17.068] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:12:46.375] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:12:54.939] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:13:29.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 22:13:29.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:16:52.528] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:17:10.990] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:18:29.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 22:18:29.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:21:35.708] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[28Dec2024 22:22:53.675] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:23:24.373] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:23:29.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 22:23:29.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 22:25:47.118] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 22:26:31.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 22:26:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game

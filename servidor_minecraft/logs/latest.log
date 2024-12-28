@@ -323,3 +323,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 22:07:17.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
 [28Dec2024 22:07:17.318] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
 [28Dec2024 22:07:20.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[28Dec2024 22:21:35.708] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[28Dec2024 22:26:31.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 22:26:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
