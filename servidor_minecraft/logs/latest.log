@@ -359,3 +359,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 15:07:37.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
 [28Dec2024 15:07:37.218] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
 [28Dec2024 15:08:12.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5835ms or 116 ticks behind
+[28Dec2024 15:09:01.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33888ms or 677 ticks behind
+[28Dec2024 15:09:19.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
+[28Dec2024 15:09:41.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7572ms or 151 ticks behind
+[28Dec2024 15:10:03.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6140ms or 122 ticks behind
+[28Dec2024 15:10:21.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3574ms or 71 ticks behind
+[28Dec2024 15:10:41.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4727ms or 94 ticks behind
+[28Dec2024 15:10:59.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3530ms or 70 ticks behind
+[28Dec2024 15:14:08.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Kicked MaurossjFLAMA: Kicked by an operator]
+[28Dec2024 15:14:08.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Kicked by an operator
+[28Dec2024 15:14:08.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[28Dec2024 15:14:23.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:44529] logged in with entity id 19264 at (-1069.5945819045132, 105.0, 4181.3974591236265)
+[28Dec2024 15:14:23.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[28Dec2024 15:14:23.496] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[28Dec2024 15:14:25.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
+[28Dec2024 15:18:00.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[28Dec2024 15:18:04.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> d
+[28Dec2024 15:18:19.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Dec2024 15:18:24.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thiagojoe: Teleported thiagojoe to MaurossjFLAMA]
