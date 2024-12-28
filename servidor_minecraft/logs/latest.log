@@ -252,3 +252,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 14:46:04.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
 [28Dec2024 14:46:04.467] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
 [28Dec2024 14:46:09.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4672ms or 93 ticks behind
+[28Dec2024 14:46:57.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[28Dec2024 14:47:08.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> zzz
+[28Dec2024 14:47:08.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 14:47:08.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 14:47:09.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 14:47:09.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 14:47:11.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 14:47:22.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10728ms or 214 ticks behind
+[28Dec2024 14:47:46.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9075ms or 181 ticks behind
+[28Dec2024 14:48:02.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thiagojoe: Teleported thiagojoe to Spooken_YT]
+[28Dec2024 14:48:04.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
+[28Dec2024 14:48:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[28Dec2024 14:48:44.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[28Dec2024 14:49:53.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Diamond Chestplate] to Spooken_YT]
+[28Dec2024 14:49:58.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[28Dec2024 14:50:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[28Dec2024 14:50:35.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[28Dec2024 14:50:42.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[28Dec2024 14:50:58.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[28Dec2024 14:51:04.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 14:51:04.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 14:51:09.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:41895] logged in with entity id 4942 at (-1279.5, 110.0, -420.5)
+[28Dec2024 14:51:09.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 14:51:10.000] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 14:51:12.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! -5.5292352866486,4.248135998590939,7.495946275831102
+[28Dec2024 14:51:19.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6331ms or 126 ticks behind
+[28Dec2024 14:51:44.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9148ms or 182 ticks behind
+[28Dec2024 14:52:03.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4689ms or 93 ticks behind
+[28Dec2024 14:52:21.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2799ms or 55 ticks behind
+[28Dec2024 14:52:42.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[28Dec2024 14:52:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[28Dec2024 14:53:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Sword] to Spooken_YT]
+[28Dec2024 14:53:06.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[28Dec2024 14:53:31.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[28Dec2024 14:53:48.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[28Dec2024 14:54:11.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[28Dec2024 14:54:15.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 14:54:15.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 14:54:20.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:54197] logged in with entity id 6561 at (-1245.291729307169, 110.0, -398.95510477701913)
+[28Dec2024 14:54:20.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 14:54:20.329] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 14:54:31.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5234ms or 104 ticks behind
+[28Dec2024 14:54:55.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8705ms or 174 ticks behind
+[28Dec2024 14:55:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[28Dec2024 14:55:05.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[28Dec2024 14:55:06.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=115, z=3233} BlockPos{x=-287, y=94, z=3180}
+[28Dec2024 14:55:07.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[28Dec2024 14:55:14.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4072ms or 81 ticks behind
+[28Dec2024 14:55:33.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
+[28Dec2024 14:55:53.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4620ms or 92 ticks behind
+[28Dec2024 14:56:13.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5139ms or 102 ticks behind
+[28Dec2024 14:56:29.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:59385] logged in with entity id 8242 at (-1066.717138737772, 105.0, 4179.692374387266)
+[28Dec2024 14:56:29.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[28Dec2024 14:56:29.846] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[28Dec2024 14:56:43.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14841ms or 296 ticks behind
+[28Dec2024 14:57:22.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23673ms or 473 ticks behind
