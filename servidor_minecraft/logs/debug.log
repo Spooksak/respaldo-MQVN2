@@ -11521,3 +11521,136 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 17:01:19.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
 [28Dec2024 17:01:53.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 17:01:53.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 17:03:33.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Who is Cutting Onions?]
+[28Dec2024 17:06:53.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 17:06:53.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 17:08:02.815] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:02.815] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:04.214] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:04.215] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:04.611] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:04.611] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:04.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:04.735] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:05.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:05.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:05.364] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:05.364] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:06.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:08.074] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:10.077] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:10.077] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:37.585] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:37.585] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:42.019] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:42.019] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:53.010] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:53.011] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:54.804] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:55.709] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:55.709] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:08:59.437] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:00.792] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:00.793] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:05.024] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:05.024] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:09.915] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:09.915] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:11.368] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:11.842] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:12.346] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:12.818] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:13.318] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:13.817] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:14.313] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:14.813] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:15.344] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:15.813] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:16.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:16.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:17.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:17.992] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:18.463] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:18.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:19.475] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:19.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:20.464] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:21.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:22.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:23.522] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:23.762] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:23.763] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:24.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:25.514] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:25.760] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:25.760] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:26.514] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:27.516] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:27.768] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:27.769] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:28.545] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:29.615] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:29.844] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:29.844] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:30.535] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:31.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:31.760] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:31.760] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:32.513] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:33.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:33.763] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:33.763] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:34.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:35.819] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:35.819] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:37.809] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:37.809] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:39.811] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:39.811] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:41.852] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:41.852] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:42.854] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:42.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was slain by Zombie
+[28Dec2024 17:09:42.857] [Server thread/DEBUG] [tombstone/]: A new grave of the player Spooken_YT was created at position [x:-314, y:100, z:3188, dim:minecraft:overworld]
+[28Dec2024 17:09:44.356] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:09:44.356] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 17:09:44.357] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[28Dec2024 17:10:03.324] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:03.324] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:05.317] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:05.318] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:07.260] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:07.260] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:09.310] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:09.311] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:11.323] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:11.324] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:13.309] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:13.309] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:15.313] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:15.313] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:17.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:17.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:19.392] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:19.392] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:21.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:21.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:23.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:23.312] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:25.315] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:25.315] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:27.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:27.314] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:29.376] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:29.376] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:31.364] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:31.364] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:33.376] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:10:33.377] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:11:36.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Spooken_YT'/108446, l='ServerLevel[world]', x=-309.30, y=96.00, z=3192.70] died: Spooken_YT tried to swim in lava
+[28Dec2024 17:11:53.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 17:11:53.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 17:12:09.999] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:12:12.464] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:12:12.464] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Dec2024 17:12:36.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-385, y=107, z=3218} BlockPos{x=-385, y=106, z=3218}

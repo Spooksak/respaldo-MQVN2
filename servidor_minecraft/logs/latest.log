@@ -742,3 +742,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 17:01:14.686] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [28Dec2024 17:01:19.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
 [28Dec2024 17:01:19.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 17:03:33.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Who is Cutting Onions?]
+[28Dec2024 17:09:42.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was slain by Zombie
+[28Dec2024 17:09:44.356] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 17:09:44.357] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[28Dec2024 17:11:36.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Spooken_YT'/108446, l='ServerLevel[world]', x=-309.30, y=96.00, z=3192.70] died: Spooken_YT tried to swim in lava
+[28Dec2024 17:12:36.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-385, y=107, z=3218} BlockPos{x=-385, y=106, z=3218}
