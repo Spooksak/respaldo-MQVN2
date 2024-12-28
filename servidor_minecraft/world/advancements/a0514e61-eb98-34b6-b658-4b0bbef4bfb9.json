@@ -4628,5 +4628,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 15:22:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
