@@ -4629,12 +4629,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-12-27 19:34:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-27 19:31:47 +0000"
@@ -4644,6 +4638,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-27 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-27 19:34:40 +0000"
     },
     "done": true
   },
