@@ -307,3 +307,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 21:38:48.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7294, l='ServerLevel[world]', x=-1049.24, y=62.50, z=-463.29] died, message: 'Nitwit was slain by Drowned'
 [28Dec2024 21:48:24.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4096ms or 81 ticks behind
 [28Dec2024 21:52:38.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=14, z=-119} BlockPos{x=-80, y=13, z=-119}
+[28Dec2024 21:58:44.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=13, z=-105} BlockPos{x=-154, y=13, z=-105}
+[28Dec2024 21:59:21.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=14, z=-110} BlockPos{x=-141, y=14, z=-113}
+[28Dec2024 21:59:27.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=13, z=-114} BlockPos{x=-134, y=13, z=-114}
+[28Dec2024 22:00:03.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-90, y=18, z=-109} BlockPos{x=-88, y=18, z=-110}
+[28Dec2024 22:00:03.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-90, y=18, z=-109} BlockPos{x=-88, y=18, z=-110}
+[28Dec2024 22:00:03.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-90, y=18, z=-109} BlockPos{x=-88, y=18, z=-110}
+[28Dec2024 22:00:03.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-90, y=18, z=-109} BlockPos{x=-88, y=18, z=-110}
+[28Dec2024 22:00:09.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-86, y=17, z=-116} BlockPos{x=-86, y=16, z=-116}
+[28Dec2024 22:00:58.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-56, y=14, z=-127} BlockPos{x=-55, y=13, z=-125}
+[28Dec2024 22:05:21.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Timed out
+[28Dec2024 22:05:21.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 22:06:56.156] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d99cd83[id=<null>,name=thiagojoe,properties={},legacy=false] (/127.243.25.3:36821) lost connection: Disconnected
+[28Dec2024 22:07:17.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:59285] logged in with entity id 19741 at (-83.48166757185996, 79.0, -153.37902292128967)
+[28Dec2024 22:07:17.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 22:07:17.318] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 22:07:20.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
