@@ -291,3 +291,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 21:26:01.590] [Server thread/INFO] [tombstone/]: The player thiagojoe has successfully been saved
 [28Dec2024 21:26:06.392] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [28Dec2024 21:26:06.393] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[28Dec2024 21:26:32.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[28Dec2024 21:26:49.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[28Dec2024 21:29:23.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 21:29:23.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 21:33:03.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:46435] logged in with entity id 6966 at (-1236.692466151221, 15.0, -376.38215912360266)
+[28Dec2024 21:33:03.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 21:33:03.422] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 21:35:15.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
