@@ -299,3 +299,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 21:33:03.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
 [28Dec2024 21:33:03.422] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
 [28Dec2024 21:35:15.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[28Dec2024 21:38:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 21:38:43.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 21:38:44.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 21:38:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 21:38:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <thiagojoe> z
+[28Dec2024 21:38:48.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7294, l='ServerLevel[world]', x=-1049.24, y=62.50, z=-463.29] died, message: 'Nitwit was slain by Drowned'
