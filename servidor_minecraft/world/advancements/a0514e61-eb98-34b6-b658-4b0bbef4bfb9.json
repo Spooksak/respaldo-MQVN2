@@ -4616,5 +4616,11 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-12-28 14:18:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
