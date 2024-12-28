@@ -602,3 +602,52 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 16:20:44.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
 [28Dec2024 16:20:44.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
 [28Dec2024 16:21:03.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9722ms or 194 ticks behind
+[28Dec2024 16:21:31.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13012ms or 260 ticks behind
+[28Dec2024 16:22:16.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaurossjFLAMA: Teleported MaurossjFLAMA to thiagojoe]
+[28Dec2024 16:22:39.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA has made the advancement [Hot Stuff]
+[28Dec2024 16:23:11.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 16:23:11.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 16:23:23.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:41721] logged in with entity id 74105 at (112.30000001192093, 15.0, -18.956887319101885)
+[28Dec2024 16:23:23.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 16:23:23.518] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 16:23:45.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaurossjFLAMA: Teleported MaurossjFLAMA to Spooken_YT]
+[28Dec2024 16:23:59.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2896ms or 57 ticks behind
+[28Dec2024 16:23:59.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe moved too quickly! -0.2620013568603241,0.0,-10.053678785344779
+[28Dec2024 16:24:35.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was slain by Spooken_YT using [Verga larga]
+[28Dec2024 16:24:35.996] [Server thread/INFO] [tombstone/]: The player MaurossjFLAMA has successfully been saved
+[28Dec2024 16:24:40.528] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Dec2024 16:24:40.529] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[28Dec2024 16:24:44.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[28Dec2024 16:25:02.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
+[28Dec2024 16:25:12.294] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:25:12.300] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:25:12.301] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:25:12.302] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:25:12.304] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:25:12.304] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:25:19.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[28Dec2024 16:25:40.280] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:25:40.285] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:25:51.176] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:25:51.180] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[28Dec2024 16:26:00.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 16:26:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 16:26:07.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:43239] logged in with entity id 77520 at (95.69999998807907, 15.0, -110.52169500120704)
+[28Dec2024 16:26:07.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 16:26:07.369] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[28Dec2024 16:26:30.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> 7kick
+[28Dec2024 16:26:50.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[28Dec2024 16:26:50.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[28Dec2024 16:31:59.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:31:59.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:31:59.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:31:59.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:31:59.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:31:59.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:32:00.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> z
+[28Dec2024 16:32:09.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaurossjFLAMA> zel q pone z me lo garcho
+[28Dec2024 16:35:25.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT lost connection: Disconnected
+[28Dec2024 16:35:25.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT left the game
+[28Dec2024 16:41:28.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:55021] logged in with entity id 85539 at (92.69999998807907, 14.0, -122.04520488677693)
+[28Dec2024 16:41:28.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[28Dec2024 16:41:28.240] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
