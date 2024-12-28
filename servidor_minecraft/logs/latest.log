@@ -748,3 +748,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 17:09:44.357] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [28Dec2024 17:11:36.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Spooken_YT'/108446, l='ServerLevel[world]', x=-309.30, y=96.00, z=3192.70] died: Spooken_YT tried to swim in lava
 [28Dec2024 17:12:36.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-385, y=107, z=3218} BlockPos{x=-385, y=106, z=3218}
+[28Dec2024 17:19:51.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[28Dec2024 17:20:44.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[28Dec2024 17:20:54.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[28Dec2024 17:21:11.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Timed out
+[28Dec2024 17:21:11.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[28Dec2024 17:21:47.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32a11b23[id=<null>,name=MaurossjFLAMA,properties={},legacy=false] (/127.56.87.190:55643) lost connection: Disconnected
+[28Dec2024 17:21:59.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:40631] logged in with entity id 114010 at (-1069.4531356275504, 105.49520087700593, 4180.1546554357565)
+[28Dec2024 17:21:59.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[28Dec2024 17:21:59.842] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[28Dec2024 17:22:02.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[28Dec2024 17:22:29.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Timed out
+[28Dec2024 17:22:29.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[28Dec2024 17:22:29.894] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 17:23:02.602] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e37f406[id=<null>,name=MaurossjFLAMA,properties={},legacy=false] (/127.56.87.190:46751) lost connection: Disconnected
+[28Dec2024 17:23:12.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:59525] logged in with entity id 114790 at (-1069.4531356275504, 105.03104150205048, 4180.1546554357565)
+[28Dec2024 17:23:12.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[28Dec2024 17:23:12.457] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[28Dec2024 17:23:16.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
