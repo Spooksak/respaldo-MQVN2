@@ -993,3 +993,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 23:01:06.878] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
 [29Dec2024 23:01:10.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [29Dec2024 23:01:40.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[29Dec2024 23:09:32.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[29Dec2024 23:09:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tycyone1> assss
+[29Dec2024 23:11:15.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 23:11:15.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 23:11:37.668] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1cb08983[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:50029) lost connection: Disconnected
+[29Dec2024 23:11:58.804] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@191e20fc[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:38565) lost connection: Disconnected
+[29Dec2024 23:12:07.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:60005] logged in with entity id 132835 at (-13.5, 80.03584062504456, 13.5)
+[29Dec2024 23:12:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 23:12:07.526] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 23:12:23.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
+[29Dec2024 23:16:08.971] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:soul_sand_valley took 24 ms
+[29Dec2024 23:17:21.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=45, z=290} BlockPos{x=-60, y=42, z=291}
+[29Dec2024 23:17:47.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-56, y=44, z=261} BlockPos{x=-56, y=45, z=262}
+[29Dec2024 23:17:47.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-56, y=45, z=262} BlockPos{x=-56, y=44, z=261}
+[29Dec2024 23:17:52.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=44, z=264} BlockPos{x=-53, y=44, z=264}
+[29Dec2024 23:17:52.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=44, z=264} BlockPos{x=-53, y=44, z=264}
+[29Dec2024 23:17:52.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=44, z=264} BlockPos{x=-53, y=44, z=264}
+[29Dec2024 23:17:52.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=44, z=264} BlockPos{x=-53, y=44, z=264}
+[29Dec2024 23:17:52.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=44, z=264} BlockPos{x=-53, y=44, z=264}
+[29Dec2024 23:17:52.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=44, z=264} BlockPos{x=-53, y=44, z=264}
+[29Dec2024 23:17:52.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=44, z=264} BlockPos{x=-53, y=44, z=264}
+[29Dec2024 23:17:52.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=44, z=264} BlockPos{x=-53, y=44, z=264}
+[29Dec2024 23:18:17.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-56, y=43, z=265} BlockPos{x=-57, y=43, z=266}
+[29Dec2024 23:18:18.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=43, z=265} BlockPos{x=-55, y=43, z=266}
+[29Dec2024 23:18:18.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved wrongly!
+[29Dec2024 23:18:19.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=43, z=265} BlockPos{x=-53, y=43, z=265}
+[29Dec2024 23:18:19.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=43, z=265} BlockPos{x=-53, y=43, z=265}
+[29Dec2024 23:18:19.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=43, z=265} BlockPos{x=-53, y=43, z=265}
+[29Dec2024 23:18:19.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=43, z=265} BlockPos{x=-53, y=43, z=265}
+[29Dec2024 23:18:19.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=43, z=265} BlockPos{x=-53, y=43, z=265}
+[29Dec2024 23:18:19.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=43, z=265} BlockPos{x=-53, y=43, z=265}
+[29Dec2024 23:18:19.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=43, z=265} BlockPos{x=-53, y=43, z=265}
+[29Dec2024 23:18:19.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=43, z=265} BlockPos{x=-53, y=43, z=265}
+[29Dec2024 23:18:22.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-55, y=44, z=262} BlockPos{x=-63, y=43, z=270}
+[29Dec2024 23:20:04.466] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[29Dec2024 23:23:22.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 23:23:22.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 23:23:38.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:38719] logged in with entity id 139961 at (-1456.1060461350894, 58.0, 299.2795492414257)
+[29Dec2024 23:23:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 23:23:38.842] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 23:23:44.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 23:23:44.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 23:23:47.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! -9.651388903036398,-0.24813599859093927,-2.7256524100457966
+[29Dec2024 23:24:05.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved wrongly!
+[29Dec2024 23:24:27.968] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24278c5a[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:49001) lost connection: Disconnected
+[29Dec2024 23:25:03.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4366ms or 87 ticks behind
+[29Dec2024 23:25:05.508] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14ab0a90[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:60621) lost connection: Disconnected
+[29Dec2024 23:25:19.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:38239] logged in with entity id 141170 at (-1456.1060461350894, 58.0, 299.2795492414257)
+[29Dec2024 23:25:19.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 23:25:19.896] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 23:25:25.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[29Dec2024 23:26:38.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved wrongly!
+[29Dec2024 23:26:41.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved wrongly!
+[29Dec2024 23:26:42.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved wrongly!
+[29Dec2024 23:26:47.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved wrongly!
+[29Dec2024 23:26:56.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved wrongly!
+[29Dec2024 23:28:52.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Dec2024 23:30:08.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[29Dec2024 23:32:18.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[29Dec2024 23:33:06.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[29Dec2024 23:33:40.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 23:33:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 23:33:52.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:50787] logged in with entity id 146848 at (-1453.6321873160407, 58.0, 295.45368673429067)
+[29Dec2024 23:33:52.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 23:33:52.659] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 23:33:55.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! -10.161352652234939,0.0,-0.2955185426421849
+[29Dec2024 23:33:55.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
