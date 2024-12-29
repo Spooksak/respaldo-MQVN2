@@ -971,3 +971,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 22:47:31.726] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
 [29Dec2024 22:48:37.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to Tycyone1]
 [29Dec2024 22:51:03.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Dec2024 22:54:14.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 22:54:14.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 22:54:19.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[29Dec2024 22:54:26.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:57757] logged in with entity id 124883 at (-13.5, 80.03584062504456, 13.5)
+[29Dec2024 22:54:26.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 22:54:27.022] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 22:55:27.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 22:55:27.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 22:55:54.904] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a27f14f[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:36589) lost connection: Disconnected
+[29Dec2024 22:56:04.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e13c771[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:40909) lost connection: Disconnected
+[29Dec2024 22:56:14.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:59037] logged in with entity id 125803 at (-1463.5089697773635, 58.0, 293.6448266029862)
+[29Dec2024 22:56:14.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 22:56:14.173] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 23:00:01.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 23:00:01.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 23:00:39.854] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@525a9f6d[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:41391) lost connection: Disconnected
+[29Dec2024 23:00:57.954] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e783a39[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:49093) lost connection: Disconnected
+[29Dec2024 23:01:06.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:52191] logged in with entity id 128245 at (-1459.6907336772629, 58.0, 293.8767547543888)
+[29Dec2024 23:01:06.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 23:01:06.878] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 23:01:10.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[29Dec2024 23:01:40.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
