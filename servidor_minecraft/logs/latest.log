@@ -884,3 +884,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 21:09:45.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
 [29Dec2024 21:09:46.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Disconnected
 [29Dec2024 21:09:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[29Dec2024 21:11:33.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has completed the challenge [Return to Sender]
+[29Dec2024 21:16:40.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[29Dec2024 21:18:43.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
+[29Dec2024 21:20:11.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]
+[29Dec2024 21:20:24.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
+[29Dec2024 21:20:31.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]

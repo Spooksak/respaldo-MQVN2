@@ -4761,6 +4761,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-29 21:11:33 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:wither_treasure_bag": {
     "criteria": {
       "bag_opened": "2024-12-29 20:48:34 +0000"
