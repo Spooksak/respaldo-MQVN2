@@ -3876,27 +3876,21 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-29 19:32:25 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/master_siphoner": {
     "criteria": {
       "coded_trigger": "2024-12-29 19:07:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_blaze_rod": "2024-12-29 19:32:25 +0000"
+      "blaze_rod": "2024-12-29 19:32:25 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_magic_scroll": "2024-12-29 19:32:52 +0000"
+      "has_blaze_rod": "2024-12-29 19:32:25 +0000"
     },
     "done": true
   },
@@ -3909,6 +3903,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-29 19:32:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-29 19:32:52 +0000"
     },
     "done": true
   },

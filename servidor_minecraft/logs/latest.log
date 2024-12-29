@@ -492,3 +492,69 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 19:46:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
 [29Dec2024 19:46:22.264] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
 [29Dec2024 19:46:25.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Diamond Chestplate] to Spooken_YT]
+[29Dec2024 19:46:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Diamond Boots] to Spooken_YT]
+[29Dec2024 19:46:45.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[29Dec2024 19:46:47.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Diamond Helmet] to Spooken_YT]
+[29Dec2024 19:46:56.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Diamond Leggings] to Spooken_YT]
+[29Dec2024 19:48:51.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[29Dec2024 19:49:14.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[29Dec2024 19:49:35.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! 10.051240605362352,1.2491870787446828,0.3770976108562536
+[29Dec2024 19:49:48.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19187ms or 383 ticks behind
+[29Dec2024 19:50:10.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! 0.591790889471838,0.8971354946802563,10.16805282963469
+[29Dec2024 19:50:15.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11496ms or 229 ticks behind
+[29Dec2024 19:50:39.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8782ms or 175 ticks behind
+[29Dec2024 19:50:56.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[29Dec2024 19:50:59.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [First Prayer]
+[29Dec2024 19:51:18.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6833ms or 136 ticks behind
+[29Dec2024 19:51:32.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set the weather to rain]
+[29Dec2024 19:51:36.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set the weather to rain & thunder]
+[29Dec2024 19:51:42.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9210ms or 184 ticks behind
+[29Dec2024 19:52:01.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
+[29Dec2024 19:52:22.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5917ms or 118 ticks behind
+[29Dec2024 19:52:45.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7327ms or 146 ticks behind
+[29Dec2024 19:53:16.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Disconnected
+[29Dec2024 19:53:16.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[29Dec2024 19:53:16.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:32.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:35.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[29Dec2024 19:53:35.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[29Dec2024 19:53:36.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:37.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:38.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Creative Mode]
+[29Dec2024 19:53:39.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:40.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:40.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:41.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:41.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:42.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:42.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:43.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:43.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:44.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:51.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:53.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:54.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:53:54.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Summoned new Lightning Bolt]
+[29Dec2024 19:54:08.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:45733] logged in with entity id 38134 at (-1287.3848010235265, 110.9375, -433.0163905343644)
+[29Dec2024 19:54:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[29Dec2024 19:54:08.843] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[29Dec2024 19:54:31.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[29Dec2024 19:54:31.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[29Dec2024 19:54:33.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:60551] logged in with entity id 38272 at (-61.30000001192093, 97.0, 494.4695526482857)
+[29Dec2024 19:54:33.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[29Dec2024 19:54:33.058] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[29Dec2024 19:54:40.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:34223] logged in with entity id 39043 at (-1279.012216551006, 110.0, -402.48750001192093)
+[29Dec2024 19:54:40.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[29Dec2024 19:54:40.355] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[29Dec2024 19:55:31.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has completed the challenge [Great View From Up Here]
+[29Dec2024 19:55:46.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to MaurossjFLAMA]
+[29Dec2024 19:56:10.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to Tycyone1]
+[29Dec2024 19:56:31.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported thiagojoe to Spooken_YT]
+[29Dec2024 19:56:42.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported thiagojoe to Spooken_YT]
+[29Dec2024 19:56:49.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported thiagojoe to Spooken_YT]
+[29Dec2024 19:56:53.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported thiagojoe to Spooken_YT]
+[29Dec2024 19:57:04.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported thiagojoe to Spooken_YT]
+[29Dec2024 19:57:08.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported thiagojoe to Spooken_YT]
