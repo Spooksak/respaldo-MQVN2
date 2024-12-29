@@ -22,6 +22,7 @@
       "minecraft:windswept_hills": "2024-12-20 20:01:29 +0000",
       "minecraft:beach": "2024-12-20 19:02:42 +0000",
       "minecraft:dark_forest": "2024-12-20 20:17:46 +0000",
+      "minecraft:sparse_jungle": "2024-12-29 13:43:03 +0000",
       "minecraft:river": "2024-12-20 18:18:29 +0000",
       "minecraft:snowy_plains": "2024-12-20 18:34:24 +0000",
       "minecraft:dripstone_caves": "2024-12-22 13:37:41 +0000",
@@ -31,6 +32,7 @@
       "minecraft:lush_caves": "2024-12-24 13:35:06 +0000",
       "minecraft:frozen_ocean": "2024-12-25 17:10:45 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-25 17:18:41 +0000",
+      "minecraft:jungle": "2024-12-29 13:45:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 20:36:13 +0000",
       "minecraft:snowy_beach": "2024-12-25 17:24:54 +0000",
       "minecraft:flower_forest": "2024-12-21 18:51:35 +0000",
@@ -4842,6 +4844,66 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2024-12-28 22:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-28 22:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-28 22:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-28 22:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-28 22:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-29 12:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2024-12-29 13:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-29 13:43:05 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-29 13:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-29 13:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-29 13:43:05 +0000"
     },
     "done": true
   },
