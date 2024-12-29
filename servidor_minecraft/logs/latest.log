@@ -295,3 +295,89 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 18:22:32.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
 [29Dec2024 18:24:24.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to -1322.000000, 120.000000, -23.930000]
 [29Dec2024 18:24:26.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! -0.28246036979953715,-11.627681020464749,-0.13861294136267688
+[29Dec2024 18:25:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to -304.500000, 100.000000, -3099.500000]
+[29Dec2024 18:25:33.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14259ms or 285 ticks behind
+[29Dec2024 18:25:33.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! 0.0,-10.806526110008988,0.0
+[29Dec2024 18:25:51.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to -304.500000, 100.000000, 3100.500000]
+[29Dec2024 18:25:51.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2930ms or 58 ticks behind
+[29Dec2024 18:29:33.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Diamond Chestplate] to Spooken_YT]
+[29Dec2024 18:29:57.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Chestplate] to Spooken_YT]
+[29Dec2024 18:31:07.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Helmet] to Spooken_YT]
+[29Dec2024 18:31:17.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Leggings] to Spooken_YT]
+[29Dec2024 18:31:27.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Boots] to Spooken_YT]
+[29Dec2024 18:31:58.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[29Dec2024 18:34:33.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[29Dec2024 18:37:40.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:41771] logged in with entity id 12953 at (-1378.300000011921, 74.0, -397.10367714860206)
+[29Dec2024 18:37:41.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 18:37:41.187] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 18:38:11.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Timed out
+[29Dec2024 18:38:11.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 18:38:27.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:45707] logged in with entity id 13405 at (-1378.300000011921, 74.0, -397.10367714860206)
+[29Dec2024 18:38:27.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 18:38:27.074] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 18:38:30.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! -9.130807643483763,2.9245559348105132,3.3390162952405262
+[29Dec2024 18:38:30.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3013ms or 60 ticks behind
+[29Dec2024 18:38:57.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Timed out
+[29Dec2024 18:38:57.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 18:39:56.323] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c8f1ffa[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:57487) lost connection: Disconnected
+[29Dec2024 18:40:09.372] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59fa933b[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:45339) lost connection: Disconnected
+[29Dec2024 18:40:16.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.163.192.71:42655] logged in with entity id 14614 at (-1291.7952679875166, 111.41999998688698, -441.38159012008435)
+[29Dec2024 18:40:16.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 18:40:16.380] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 18:40:19.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! -10.013268648245287,0.04353562014750878,1.913937704870932
+[29Dec2024 18:40:19.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[29Dec2024 18:40:46.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Timed out
+[29Dec2024 18:40:46.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 18:41:31.027] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@534c68f9[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:35317) lost connection: Disconnected
+[29Dec2024 18:42:19.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[29Dec2024 18:42:25.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[29Dec2024 18:42:32.572] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41235666[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.163.192.71:33111) lost connection: Disconnected
+[29Dec2024 18:43:22.941] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Spooken_YT
+[29Dec2024 18:43:35.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39112a21[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:54787) lost connection: Disconnected
+[29Dec2024 18:44:03.522] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38258a2[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:38215) lost connection: Disconnected
+[29Dec2024 18:44:29.398] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26ba2aaf[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:41259) lost connection: Disconnected
+[29Dec2024 18:44:50.041] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e2ea86c[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:39175) lost connection: Disconnected
+[29Dec2024 18:45:07.025] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cac88f8[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:38589) lost connection: Disconnected
+[29Dec2024 18:45:22.328] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38dd60ac[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:53953) lost connection: Disconnected
+[29Dec2024 18:45:39.923] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@fd614c1[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:41243) lost connection: Disconnected
+[29Dec2024 18:45:53.060] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70a16b50[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:45549) lost connection: Disconnected
+[29Dec2024 18:46:11.122] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54efa7a0[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:53127) lost connection: Disconnected
+[29Dec2024 18:46:25.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a88b50e[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:47529) lost connection: Disconnected
+[29Dec2024 18:46:42.124] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e4e4830[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:50767) lost connection: Disconnected
+[29Dec2024 18:46:50.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:54337] logged in with entity id 17201 at (-1291.7952679875166, 111.10796797931862, -441.38159012008435)
+[29Dec2024 18:46:50.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 18:46:50.518] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 18:46:53.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Dec2024 18:46:55.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 18:46:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 18:47:05.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:49897] logged in with entity id 17652 at (-1287.0303158516676, 112.1212968405392, -438.83999399918014)
+[29Dec2024 18:47:05.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 18:47:05.967] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 18:47:48.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Teleported Tycyone1 to Spooken_YT]
+[29Dec2024 18:48:20.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[29Dec2024 18:48:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Boots] to Spooken_YT]
+[29Dec2024 18:48:42.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Leggings] to Spooken_YT]
+[29Dec2024 18:48:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Helmet] to Spooken_YT]
+[29Dec2024 18:48:47.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Gave 1 [Netherite Chestplate] to Spooken_YT]
+[29Dec2024 18:52:43.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[29Dec2024 18:53:02.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 18:53:02.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 18:53:40.425] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c6e0db9[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:56817) lost connection: Disconnected
+[29Dec2024 18:53:50.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:45199] logged in with entity id 19702 at (-1063.626038352063, 105.0, 4168.3853250452175)
+[29Dec2024 18:53:51.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[29Dec2024 18:53:51.055] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[29Dec2024 18:53:54.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! -9.552044854119345,0.0,-3.5105970851195707
+[29Dec2024 18:53:54.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3784ms or 75 ticks behind
+[29Dec2024 18:54:21.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Timed out
+[29Dec2024 18:54:21.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
+[29Dec2024 18:54:21.263] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 18:54:39.747] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40f9be2b[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:59805) lost connection: Disconnected
+[29Dec2024 18:54:47.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaurossjFLAMA[/127.56.87.190:55037] logged in with entity id 20559 at (-1063.657220632798, 105.1875, 4190.762499988079)
+[29Dec2024 18:54:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA joined the game
+[29Dec2024 18:54:47.114] [Server thread/INFO] [Jade/]: Syncing config to MaurossjFLAMA (1deb0062-6e95-3483-b392-a6fc11fc5903)
+[29Dec2024 18:54:49.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
+[29Dec2024 18:55:18.636] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ffcfb25[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:57907) lost connection: Disconnected
+[29Dec2024 18:55:28.800] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@709e1079[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:60121) lost connection: Disconnected
+[29Dec2024 18:55:44.649] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:33511] logged in with entity id 21854 at (-1465.7028931604789, 58.0, 295.47050962266337)
+[29Dec2024 18:55:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 18:55:44.691] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
