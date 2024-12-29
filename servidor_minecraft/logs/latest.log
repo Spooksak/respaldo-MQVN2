@@ -558,3 +558,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 19:56:53.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported thiagojoe to Spooken_YT]
 [29Dec2024 19:57:04.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported thiagojoe to Spooken_YT]
 [29Dec2024 19:57:08.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported thiagojoe to Spooken_YT]
+[29Dec2024 19:57:13.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[29Dec2024 19:57:38.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10006ms or 200 ticks behind
+[29Dec2024 19:58:01.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7474ms or 149 ticks behind
+[29Dec2024 19:58:57.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from MaurossjFLAMA: Location (420.28744101524353, 55.071612782776356, 333.25) too far away from hit block BlockPos{x=421, y=55, z=333}.
+[29Dec2024 19:59:18.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe was killed by magic whilst trying to escape Giant
+[29Dec2024 19:59:22.947] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Dec2024 19:59:22.947] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Dec2024 19:59:28.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[29Dec2024 19:59:28.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[29Dec2024 19:59:47.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:42815] logged in with entity id 42042 at (-1276.7435884494153, 110.0, -399.69999998807907)
+[29Dec2024 19:59:47.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[29Dec2024 19:59:47.342] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[29Dec2024 20:02:29.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]
+[29Dec2024 20:04:27.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA moved wrongly!
+[29Dec2024 20:05:08.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[29Dec2024 20:05:12.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA moved wrongly!
+[29Dec2024 20:06:13.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1363, y=38, z=632} BlockPos{x=1364, y=39, z=632}
+[29Dec2024 20:07:36.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[29Dec2024 20:07:53.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has reached the goal [Hired Help]
+[29Dec2024 20:07:53.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has reached the goal [Hired Help]

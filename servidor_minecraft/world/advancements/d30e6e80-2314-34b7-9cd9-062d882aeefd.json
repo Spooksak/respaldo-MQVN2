@@ -1441,6 +1441,7 @@
       "minecraft:piglin": "2024-12-25 16:35:20 +0000",
       "minecraft:stray": "2024-12-22 13:33:25 +0000",
       "minecraft:enderman": "2024-12-23 17:44:03 +0000",
+      "minecraft:endermite": "2024-12-29 19:59:04 +0000",
       "minecraft:zombie": "2024-12-21 20:10:24 +0000",
       "minecraft:drowned": "2024-12-25 19:50:43 +0000",
       "minecraft:zombie_villager": "2024-12-21 19:58:05 +0000"
@@ -4934,6 +4935,12 @@
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2024-12-29 19:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-12-29 19:55:31 +0000"
     },
     "done": true
   },
