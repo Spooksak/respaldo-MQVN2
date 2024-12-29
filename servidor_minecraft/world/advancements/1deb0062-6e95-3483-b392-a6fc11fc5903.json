@@ -3933,6 +3933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-29 21:06:52 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_piglins": {
     "criteria": {
       "nova_structures:piglin_outstation": "2024-12-29 20:22:04 +0000",
@@ -4036,6 +4042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-29 21:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-29 20:22:25 +0000"
@@ -4045,6 +4057,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-29 20:22:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-29 21:00:21 +0000"
     },
     "done": true
   },

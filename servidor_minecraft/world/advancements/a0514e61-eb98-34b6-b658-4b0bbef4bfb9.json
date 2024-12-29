@@ -4732,9 +4732,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:03:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2024-12-29 20:52:28 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-29 20:55:34 +0000"
     },
     "done": true
   },

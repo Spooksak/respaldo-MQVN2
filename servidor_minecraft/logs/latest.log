@@ -841,3 +841,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 20:55:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Master of Silence]
 [29Dec2024 20:55:34.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has made the advancement [Master of Silence]
 [29Dec2024 20:57:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has completed the challenge [It Spreads]
+[29Dec2024 20:59:21.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was killed by magic whilst trying to escape Warden
+[29Dec2024 20:59:24.830] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Dec2024 20:59:24.831] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Dec2024 20:59:26.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[29Dec2024 20:59:44.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3460ms or 69 ticks behind
+[29Dec2024 21:00:21.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA has made the advancement [Master of Silence]
+[29Dec2024 21:00:30.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has made the advancement [Master of Silence]
+[29Dec2024 21:02:02.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was killed by magic whilst trying to escape Warden
+[29Dec2024 21:02:04.885] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Dec2024 21:02:04.885] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Dec2024 21:02:25.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to thiagojoe]
+[29Dec2024 21:02:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaurossjFLAMA: Teleported MaurossjFLAMA to thiagojoe]
+[29Dec2024 21:03:32.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has reached the goal [Strong Undead]
+[29Dec2024 21:04:07.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Back to childhood]
+[29Dec2024 21:04:07.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe has made the advancement [Not even afraid of death]
+[29Dec2024 21:04:19.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaurossjFLAMA: Teleported MaurossjFLAMA to Tycyone1]
+[29Dec2024 21:04:39.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[29Dec2024 21:05:14.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[29Dec2024 21:05:17.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Creative Mode]
+[29Dec2024 21:05:18.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA was killed by magic
+[29Dec2024 21:05:18.362] [Server thread/INFO] [tombstone/]: The player MaurossjFLAMA has successfully been saved
+[29Dec2024 21:05:22.001] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Dec2024 21:05:22.002] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Dec2024 21:05:24.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Set own game mode to Survival Mode]
+[29Dec2024 21:05:27.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT lost connection: Disconnected
+[29Dec2024 21:05:27.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT left the game
+[29Dec2024 21:05:28.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[29Dec2024 21:05:42.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 moved too quickly! -56.51709646683929,75.5,-76.40180289253158
+[29Dec2024 21:05:47.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3136ms or 62 ticks behind
+[29Dec2024 21:06:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaurossjFLAMA: Teleported MaurossjFLAMA to Tycyone1]
+[29Dec2024 21:06:49.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MaurossjFLAMA: Teleported MaurossjFLAMA to Tycyone1]
+[29Dec2024 21:07:14.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe moved too quickly! -1157.1075312298672,84.5,-2918.1035941700056
+[29Dec2024 21:08:47.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[29Dec2024 21:08:47.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[29Dec2024 21:08:56.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:34697] logged in with entity id 84571 at (-1279.5, 110.03584062504456, -420.5)
+[29Dec2024 21:08:56.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[29Dec2024 21:08:56.863] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
+[29Dec2024 21:09:09.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[29Dec2024 21:09:42.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[29Dec2024 21:09:45.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: Disconnected
+[29Dec2024 21:09:45.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[29Dec2024 21:09:46.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaurossjFLAMA lost connection: Disconnected
+[29Dec2024 21:09:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaurossjFLAMA left the game
