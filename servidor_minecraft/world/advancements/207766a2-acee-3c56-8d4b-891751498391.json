@@ -4725,9 +4725,33 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-29 20:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-29 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-29 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-29 20:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-29 20:48:34 +0000"
     },
     "done": true
   },
@@ -4740,12 +4764,6 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2024-12-29 20:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-12-29 20:48:34 +0000"
     },
     "done": true
   },
@@ -4767,21 +4785,15 @@
     },
     "done": true
   },
-  "majruszsdifficulty:wither_treasure_bag": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
-      "bag_opened": "2024-12-29 20:48:34 +0000"
+      "has_upgrade_base": "2024-12-29 21:48:16 +0000"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
-      "summoned": "2024-12-29 20:46:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2024-12-29 20:48:34 +0000"
+      "has_upgrade_base": "2024-12-29 21:48:03 +0000"
     },
     "done": true
   },

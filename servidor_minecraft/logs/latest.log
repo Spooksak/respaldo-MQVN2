@@ -892,3 +892,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 21:20:31.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tycyone1: Set own game mode to Survival Mode]
 [29Dec2024 21:41:12.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
 [29Dec2024 21:41:12.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 21:41:50.296] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5641b54e[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:51587) lost connection: Disconnected
+[29Dec2024 21:42:26.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:43311] logged in with entity id 92856 at (-1426.1420422767033, 62.0, 299.0466095489437)
+[29Dec2024 21:42:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 21:42:26.747] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 21:43:02.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 21:43:02.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 21:43:36.495] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@171c2ef0[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:42775) lost connection: Disconnected
+[29Dec2024 21:43:57.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@482c2d26[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:46735) lost connection: Disconnected
+[29Dec2024 21:44:33.195] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68c7e5f5[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:59823) lost connection: Disconnected
+[29Dec2024 21:44:44.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:47443] logged in with entity id 93254 at (-1444.3294361153987, 65.0, 305.7147735218762)
+[29Dec2024 21:44:44.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 21:44:44.119] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 21:44:46.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[29Dec2024 21:44:50.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 21:44:50.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 21:45:01.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:39611] logged in with entity id 93588 at (-1444.3294361153987, 65.0, 305.7147735218762)
+[29Dec2024 21:45:01.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 21:45:01.987] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
