@@ -4797,5 +4797,23 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_birch_mineshaft": "2024-12-29 22:42:19 +0000"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_birch_mineshaft": "2024-12-29 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-29 22:42:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

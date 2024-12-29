@@ -937,3 +937,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 22:41:34.492] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
 [29Dec2024 22:41:47.387] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
 [29Dec2024 22:41:55.981] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:42:06.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[29Dec2024 22:42:10.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! 0.2906698496648801,0.8322033533667508,-10.071653546940524
+[29Dec2024 22:42:10.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 moved too quickly! 7.522733970235663,0.24585374103637747,7.172418241806245
+[29Dec2024 22:42:16.322] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:42:19.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 has reached the goal [Who built this?]
+[29Dec2024 22:42:31.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10016ms or 200 ticks behind
+[29Dec2024 22:42:36.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to Tycyone1]
+[29Dec2024 22:42:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT has reached the goal [Who built this?]
+[29Dec2024 22:44:21.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to Tycyone1]
+[29Dec2024 22:44:34.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 22:44:34.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 22:44:45.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:52859] logged in with entity id 119822 at (-728.0633337871002, 95.0, 78.95248331391873)
+[29Dec2024 22:44:45.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 22:44:45.383] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 22:44:47.537] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:45:14.125] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:45:27.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 22:45:27.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 22:45:47.658] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7deae2ff[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:41161) lost connection: Disconnected
+[29Dec2024 22:45:54.959] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@370b68b3[id=<null>,name=Tycyone1,properties={},legacy=false] (/127.85.99.201:56987) lost connection: Disconnected
+[29Dec2024 22:45:58.567] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:46:03.468] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:46:05.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:46247] logged in with entity id 120367 at (-648.2116840326913, 128.0, 6.170789779617759)
+[29Dec2024 22:46:05.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 22:46:05.544] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 22:46:24.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 22:46:24.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 22:46:26.862] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:46:34.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:37353] logged in with entity id 120738 at (-638.4609049376891, 131.17675927506423, -0.5386501063066198)
+[29Dec2024 22:46:34.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 22:46:34.371] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 22:47:31.726] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:48:37.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken_YT: Teleported Spooken_YT to Tycyone1]
+[29Dec2024 22:51:03.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
