@@ -4720,21 +4720,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-12-29 20:48:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-29 20:44:27 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strong_undead": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "coded_trigger": "2024-12-29 21:03:32 +0000"
+      "has_soul_sand": "2024-12-29 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-29 20:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-29 20:48:46 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-29 20:48:46 +0000"
     },
     "done": true
   },
@@ -4750,21 +4762,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "tombstone:adventure/strong_undead": {
     "criteria": {
-      "has_soul_sand": "2024-12-29 20:44:27 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:wither_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2024-12-29 20:48:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2024-12-29 20:46:53 +0000"
+      "coded_trigger": "2024-12-29 21:03:32 +0000"
     },
     "done": true
   },

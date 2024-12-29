@@ -912,3 +912,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 21:45:01.987] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
 [29Dec2024 22:05:56.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [29Dec2024 22:08:27.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
+[29Dec2024 22:12:04.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tycyone1 lost connection: Disconnected
+[29Dec2024 22:12:04.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 left the game
+[29Dec2024 22:12:18.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tycyone1[/127.85.99.201:54025] logged in with entity id 102367 at (-1468.6349054939742, 59.41999998688698, 299.59193671698716)
+[29Dec2024 22:12:18.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tycyone1 joined the game
+[29Dec2024 22:12:18.138] [Server thread/INFO] [Jade/]: Syncing config to Tycyone1 (207766a2-acee-3c56-8d4b-891751498391)
+[29Dec2024 22:13:26.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spooken_YT[/127.211.96.2:40629] logged in with entity id 102926 at (-307.28987183828815, -26.0, 3219.0656663618047)
+[29Dec2024 22:13:26.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT joined the game
+[29Dec2024 22:13:26.150] [Server thread/INFO] [Jade/]: Syncing config to Spooken_YT (a0514e61-eb98-34b6-b658-4b0bbef4bfb9)
+[29Dec2024 22:22:52.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[29Dec2024 22:22:52.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[29Dec2024 22:22:52.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[29Dec2024 22:22:52.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[29Dec2024 22:22:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[29Dec2024 22:22:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[29Dec2024 22:22:53.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken_YT> z
+[29Dec2024 22:26:10.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[29Dec2024 22:28:42.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT was killed by magic whilst trying to escape Enderman
+[29Dec2024 22:28:44.515] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Dec2024 22:28:44.515] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Dec2024 22:28:56.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4793ms or 95 ticks behind
+[29Dec2024 22:33:30.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[29Dec2024 22:41:34.485] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:41:34.492] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:41:47.387] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[29Dec2024 22:41:55.981] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
