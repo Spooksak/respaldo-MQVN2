@@ -4659,15 +4659,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_candle": {
-    "criteria": {
-      "has_gray_dye": "2024-12-29 18:09:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-29 18:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-29 18:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-29 18:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2024-12-29 18:09:22 +0000"
     },
     "done": true
   },
@@ -4686,18 +4698,6 @@
   "minecraft:recipes/building_blocks/dye_gray_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-29 18:09:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_candle": {
-    "criteria": {
-      "has_black_dye": "2024-12-29 18:09:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-29 18:09:18 +0000"
     },
     "done": true
   },
